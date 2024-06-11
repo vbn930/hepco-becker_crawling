@@ -44,6 +44,22 @@ class Hepco_Becker_Crawler:
         self.products = []
         self.data = dict()
         self.data_init()
+    
+    def capitalize_words(self, s):
+        # 빈 문자열이면 그대로 반환
+        if not s:
+            return s
+        
+        # 단어별로 분리하여 처리
+        words = s.split()
+        result = []
+        for word in words:
+            # 단어의 첫 글자를 대문자로, 나머지는 소문자로 변환
+            capitalized_word = word.capitalize()
+            result.append(capitalized_word)
+        
+        # 변환된 단어들을 공백으로 연결하여 반환
+        return ' '.join(result)
 
     def get_init_settings_from_file(self, file_code):
         #cvs 파일에서 계정 정보, 브랜드, 브랜드 코드 가져오기
@@ -155,6 +171,7 @@ class Hepco_Becker_Crawler:
     def get_item_information(self, item_url, make="", model="", categoty="", sub_category="", output_name=None):
         self.driver.get(item_url)
         item_name = self.driver.find_element(By.CLASS_NAME, "product-detail-name").text
+        item_name = self.capitalize_words(item_name)
         item_code = self.driver.find_element(By.CLASS_NAME, "product-detail-ordernumber").text[3:]
         item_code = "hb" + item_code.replace(" ", "").replace("/", "-")
         item_price = self.driver.find_element(By.CLASS_NAME, "product-detail-price").text[1:-1]
@@ -182,7 +199,7 @@ class Hepco_Becker_Crawler:
 
         item = Product(code=item_code, name=item_name, price=item_price, description=item_description, 
                        trans_description=translate_manager.translator(self.logger, "en", "ko", item_description),
-                       images=item_img_urls, make=make, model=model, category=categoty, sub_category=sub_category)
+                       images=item_img_names, make=make, model=model, category=categoty, sub_category=sub_category)
         # item = Product(code=item_code, name=item_name, price=item_price, description=item_description, 
         #                trans_description="",
         #                images=item_img_names, make=make, model=model, category=categoty, sub_category=sub_category)
@@ -270,7 +287,4 @@ class Hepco_Becker_Crawler:
                     item = self.get_item_information(item_url=item_url, categoty=category_name, sub_category=sub_category_name, output_name=output_name)
                     self.save_item_in_database(item)
                 self.save_database_to_excel(output_name=output_name)
-        pass
-
-    def start_protection_comfort_crawling(self, output_name):
         pass
