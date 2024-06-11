@@ -53,6 +53,7 @@ class Driver:
         return is_exist
     
     def __del__(self):
+        self.driver.close()
         self.driver.quit()
         del self.driver
 
@@ -62,7 +63,7 @@ class WebDriverManager():
         self.logger = logger
         self.drive_obj = None
             
-    def create_driver(self, user_agent=None, proxy=None, is_headless=False, is_udc=False):
+    def create_driver(self, user_agent=None, proxy=None, is_headless=False, is_udc=False, is_load_img=True):
         chrome_options = webdriver.ChromeOptions()
         
         if proxy:
@@ -137,8 +138,9 @@ class WebDriverManager():
         chrome_options.add_argument('--disable-dev-shm-usage')
         chrome_options.add_argument("--disable-notifications")
         chrome_options.add_experimental_option('excludeSwitches', ['disable-popup-blocking'])
-        prefs = {"profile.managed_default_content_settings.images": 2}
-        chrome_options.add_experimental_option("prefs", prefs)
+        if not is_load_img:
+            prefs = {"profile.managed_default_content_settings.images": 2}
+            chrome_options.add_experimental_option("prefs", prefs)
         chrome_options.add_experimental_option("excludeSwitches", ["enable-logging"])
 
         service = Service(excutable_path=ChromeDriverManager().install())
@@ -156,8 +158,8 @@ class WebDriverManager():
         self.drive_obj = Driver(self.logger, driver, proxy)
         return self.drive_obj
     
-    def download_image(self, img_url, img_name, img_path, download_cnt, proxy=None):
-        min_size = 50
+    def download_image(self, img_url, img_name, img_path, download_cnt=0, proxy=None):
+        min_size = 0
         
         #만약 다운로드 시도횟수가 5번을 넘는다면 다운로드 불가능한 이미지로 간주
         if download_cnt > 5:
@@ -187,6 +189,7 @@ class WebDriverManager():
     
     def delete_driver(self):
         if self.drive_obj != None:
+            self.drive_obj.driver.close()
             del self.drive_obj
             self.drive_obj = None
             self.logger.log_debug("Driver deleted")

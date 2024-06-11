@@ -1,0 +1,819 @@
+[2024-06-10 14:43:44][DEBUG]Driver created without proxy
+[2024-06-10 14:43:44][DEBUG]Setting values : ['', '']
+[2024-06-10 14:44:10][DEBUG]Modal popup check completed!
+[2024-06-10 14:44:11][TRACE]Current make options : APRILIA
+[2024-06-10 14:44:13][TRACE]Model option cnt: 44
+[2024-06-10 14:44:13][TRACE]Current model options : Gulliver 50 (1996-)
+[2024-06-10 14:44:23][DEBUG]Found item : Topcase carrier tube-type silver for Aprilia Gulliver 50 (1996-)
+[2024-06-10 14:44:38][INFO]Item TOPCASE CARRIER TUBE-TYPE SILVER FOR APRILIA GULLIVER 50 (1996-) crawling completed
+[2024-06-10 14:44:51][TRACE]Current model options : Atlantic 500 (2002-2005)
+[2024-06-10 14:44:58][DEBUG]Found item : Topcase carrier tube-type silver for Aprilia Atlantic 500 (2002-2005)
+[2024-06-10 14:45:10][DEBUG]Image 'https://www.hepco-becker.de/media/f4/bd/48/1639743291/650781_01_099b83a.jpg' download completed
+[2024-06-10 14:45:10][INFO]Item TOPCASE CARRIER TUBE-TYPE SILVER FOR APRILIA ATLANTIC 500 (2002-2005) crawling completed
+[2024-06-10 14:45:22][TRACE]Current model options : Area 51 (1998-2003)
+[2024-06-10 14:45:29][DEBUG]Found item : Topcase carrier tube-type black for Aprilia Area 51 (1998-2003)
+[2024-06-10 14:45:34][DEBUG]Image 'https://www.hepco-becker.de/media/78/64/bf/1639743059/6508280001_gb_2.jpg' download completed
+[2024-06-10 14:45:36][DEBUG]Image 'https://www.hepco-becker.de/media/14/7d/9f/1639743164/6508280001_gb_15d5923.jpg' download completed
+[2024-06-10 14:45:36][INFO]Item TOPCASE CARRIER TUBE-TYPE BLACK FOR APRILIA AREA 51 (1998-2003) crawling completed
+[2024-06-10 14:45:47][TRACE]Current model options : Caponord 1200 / Rally (2013-2016)
+[2024-06-10 14:45:54][DEBUG]Found item : Engine protection bar black for Aprilia Caponord 1200 (2013-2016)
+[2024-06-10 14:45:54][DEBUG]Found item : Modelspecific rear enlargement for Aprilia Caponord 1200 (2013-2016)
+[2024-06-10 14:45:54][DEBUG]Found item : Sidecarrier Lock-it black for Aprilia Caponord 1200 (2013-2016)
+[2024-06-10 14:45:54][DEBUG]Found item : Handle guard set black (left+right side) for Aprilia Caponord 1200 (2013-2016)/1200 Rally
+[2024-06-10 14:45:54][DEBUG]Found item : Alurack top case carrier black for Aprilia Caponord 1200 (2013-2016)
+[2024-06-10 14:45:54][DEBUG]Found item : C-Bow sidecarrier for Aprilia Caponord 1200 (2013-2016)
+[2024-06-10 14:45:54][DEBUG]Found item : Easyrack topcasecarrier black for Aprilia Caponord 1200 (2013-2016)
+[2024-06-10 14:46:00][DEBUG]Image 'https://www.hepco-becker.de/media/fa/11/e0/1639743273/motorschutzbuegel_5017514_0001_2.jpg' download completed
+[2024-06-10 14:46:01][DEBUG]Image 'https://www.hepco-becker.de/media/e1/d1/09/1639743038/motorschutzbuegel_5017514_0001_1535c61.jpg' download completed
+[2024-06-10 14:46:01][INFO]Item ENGINE PROTECTION BAR BLACK FOR APRILIA CAPONORD 1200 (2013-2016) crawling completed
+[2024-06-10 14:46:11][DEBUG]Image 'https://www.hepco-becker.de/media/2f/03/5d/1639743153/verbreiterung_2.jpg' download completed
+[2024-06-10 14:46:12][DEBUG]Image 'https://www.hepco-becker.de/media/8c/77/de/1639742950/bildschirmfoto_2016-11-02_um_13-30-01_1_5.png' download completed
+[2024-06-10 14:46:12][INFO]Item MODELSPECIFIC REAR ENLARGEMENT FOR APRILIA CAPONORD 1200 (2013-2016) crawling completed
+[2024-06-10 14:46:27][DEBUG]Image 'https://www.hepco-becker.de/media/ff/a5/a7/1639742978/koffertraeger_lock_it_6507514_0001_5.jpg' download completed
+[2024-06-10 14:46:29][DEBUG]Image 'https://www.hepco-becker.de/media/0b/3d/6a/1639742940/koffertraeger_lock_it_6507514_0001_1501489.jpg' download completed
+[2024-06-10 14:46:29][INFO]Item SIDECARRIER LOCK-IT BLACK FOR APRILIA CAPONORD 1200 (2013-2016) crawling completed
+[2024-06-10 14:46:37][DEBUG]Image 'https://www.hepco-becker.de/media/e7/c7/eb/1639743110/griffschutz__4207514_01_1.jpg' download completed
+[2024-06-10 14:46:39][DEBUG]Image 'https://www.hepco-becker.de/media/02/12/a4/1639742931/griffschutz__4207514_01_1522941.jpg' download completed
+[2024-06-10 14:46:39][INFO]Item HANDLE GUARD SET BLACK (LEFT+RIGHT SIDE) FOR APRILIA CAPONORD 1200 (2013-2016)/1200 RALLY crawling completed
+[2024-06-10 14:46:48][DEBUG]Image 'https://www.hepco-becker.de/media/08/89/87/1639743068/6507514_01_01_alurack_2.jpg' download completed
+[2024-06-10 14:46:49][DEBUG]Image 'https://www.hepco-becker.de/media/18/c4/6c/1639743052/6507514_01_01_alurack_1550b7a.jpg' download completed
+[2024-06-10 14:46:51][DEBUG]Image 'https://www.hepco-becker.de/media/65/d6/20/1639743294/img_1131477b9.jpg' download completed
+[2024-06-10 14:46:51][INFO]Item ALURACK TOP CASE CARRIER BLACK FOR APRILIA CAPONORD 1200 (2013-2016) crawling completed
+[2024-06-10 14:47:05][DEBUG]Image 'https://www.hepco-becker.de/media/82/2c/ba/1639743160/c_bow_6307514_0001_2.jpg' download completed
+[2024-06-10 14:47:07][DEBUG]Image 'https://www.hepco-becker.de/media/2b/4c/96/1639742963/c_bow_6307514_0001_150a19b.jpg' download completed
+[2024-06-10 14:47:07][INFO]Item C-BOW SIDECARRIER FOR APRILIA CAPONORD 1200 (2013-2016) crawling completed
+[2024-06-10 14:47:16][DEBUG]Image 'https://www.hepco-becker.de/media/20/28/68/1639743069/easyrack_165.jpg' download completed
+[2024-06-10 14:47:18][DEBUG]Image 'https://www.hepco-becker.de/media/6b/21/ea/1639743050/alurack_62b18cf.jpg' download completed
+[2024-06-10 14:47:18][INFO]Item EASYRACK TOPCASECARRIER BLACK FOR APRILIA CAPONORD 1200 (2013-2016) crawling completed
+[2024-06-10 14:47:31][TRACE]Current model options : Caponord ETV 1000 (2001-2007)
+[2024-06-10 14:47:38][DEBUG]Found item : Engine protection bar black for Aprilia Caponord ETV 1000 (2001-2007)
+[2024-06-10 14:47:38][DEBUG]Found item : Sidecarrier permanent mounted black for Aprilia Caponord ETV 1000 (2001-2007)
+[2024-06-10 14:47:38][DEBUG]Found item : Topcase carrier tube-type black for Aprilia Caponord ETV 1000 (2001-2007)
+[2024-06-10 14:47:38][DEBUG]Found item : Tankring Lock-it incl. fastener for tankbag for Aprilia Caponord ETV 1000 (2001-2007)
+[2024-06-10 14:47:38][DEBUG]Found item : Tankring BASIC incl. fastener for tankbag for Aprilia Caponord ETV 1000 (2001-2007)
+[2024-06-10 14:47:45][DEBUG]Image 'https://www.hepco-becker.de/media/e1/94/c8/1639742950/motorschutzbuegel_502703_0001_2.jpg' download completed
+[2024-06-10 14:47:47][DEBUG]Image 'https://www.hepco-becker.de/media/b2/94/c2/1639743268/motorschutzbuegel_502703_0001_15d5747.jpg' download completed
+[2024-06-10 14:47:47][INFO]Item ENGINE PROTECTION BAR BLACK FOR APRILIA CAPONORD ETV 1000 (2001-2007) crawling completed
+[2024-06-10 14:47:56][DEBUG]Image 'https://www.hepco-becker.de/media/11/0d/f2/1639743155/koffertraeger_650777_0001_2.jpg' download completed
+[2024-06-10 14:47:58][DEBUG]Image 'https://www.hepco-becker.de/media/dc/96/g0/1639743026/koffertraeger_650777_0001_1539133.jpg' download completed
+[2024-06-10 14:47:58][INFO]Item SIDECARRIER PERMANENT MOUNTED BLACK FOR APRILIA CAPONORD ETV 1000 (2001-2007) crawling completed
+[2024-06-10 14:48:09][DEBUG]Image 'https://www.hepco-becker.de/media/39/fc/ae/1639742937/gepaeckbruecke_650777_0101_2.jpg' download completed
+[2024-06-10 14:48:10][DEBUG]Image 'https://www.hepco-becker.de/media/42/6f/8a/1639743018/gepaeckbruecke_650777_0101_156e631.jpg' download completed
+[2024-06-10 14:48:10][INFO]Item TOPCASE CARRIER TUBE-TYPE BLACK FOR APRILIA CAPONORD ETV 1000 (2001-2007) crawling completed
+[2024-06-10 14:48:26][DEBUG]Image 'https://www.hepco-becker.de/media/f5/ec/ee/1639742936/506001-6_shop_1_1_1_1_1_1_2_1_1_1_1_1_1_1_1_2_1_1_1_1_2_1_2_1_1_1_1_1_1_13a5bf.jpg' download completed
+[2024-06-10 14:48:26][INFO]Item TANKRING LOCK-IT INCL. FASTENER FOR TANKBAG FOR APRILIA CAPONORD ETV 1000 (2001-2007) crawling completed
+[2024-06-10 14:48:41][DEBUG]Image 'https://www.hepco-becker.de/media/52/11/16/1683617819/516001-6_shop.jpg' download completed
+[2024-06-10 14:48:41][INFO]Item TANKRING BASIC INCL. FASTENER FOR TANKBAG FOR APRILIA CAPONORD ETV 1000 (2001-2007) crawling completed
+[2024-06-10 14:48:53][TRACE]Current model options : Habana / Mojito (1999-2005)
+[2024-06-10 14:49:00][DEBUG]Found item : Engine protection bar - chrome for Aprilia Habana / Mojito (1999-2005)
+[2024-06-10 14:49:00][DEBUG]Found item : Topcase carrier tube-type chrome for Aprilia Habana/Mojito (1999-2005)
+[2024-06-10 14:49:06][DEBUG]Image 'https://www.hepco-becker.de/media/11/d1/d5/1639743090/motorschutzbuegel_501833_0002_2.jpg' download completed
+[2024-06-10 14:49:08][DEBUG]Image 'https://www.hepco-becker.de/media/5f/9b/2c/1639743125/motorschutzbuegel_501833_0002_1506b61.jpg' download completed
+[2024-06-10 14:49:08][INFO]Item ENGINE PROTECTION BAR - CHROME FOR APRILIA HABANA / MOJITO (1999-2005) crawling completed
+[2024-06-10 14:49:16][DEBUG]Image 'https://www.hepco-becker.de/media/c6/fb/12/1639743078/6508330102_gb_2.jpg' download completed
+[2024-06-10 14:49:17][DEBUG]Image 'https://www.hepco-becker.de/media/be/9d/10/1639743072/6508330102_gb_15f0343.jpg' download completed
+[2024-06-10 14:49:17][INFO]Item TOPCASE CARRIER TUBE-TYPE CHROME FOR APRILIA HABANA/MOJITO (1999-2005) crawling completed
+[2024-06-10 14:49:29][TRACE]Current model options : Leonardo 125/150 (1996-1998)
+[2024-06-10 14:49:36][DEBUG]Found item : Topcase carrier tube-type silver for Aprilia Leonardo 125/150 (1996-1998)
+[2024-06-10 14:49:47][DEBUG]Image 'https://www.hepco-becker.de/media/63/53/b5/1639742969/bildschirmfoto_2016-07-20_um_13-14-49.png' download completed
+[2024-06-10 14:49:47][INFO]Item TOPCASE CARRIER TUBE-TYPE SILVER FOR APRILIA LEONARDO 125/150 (1996-1998) crawling completed
+[2024-06-10 14:49:58][TRACE]Current model options : Leonardo 125 (1999-2001)
+[2024-06-10 14:50:05][DEBUG]Found item : Topcase carrier tube-type black for Aprilia Leonardo 125/150 (1999-2001)
+[2024-06-10 14:50:20][INFO]Item TOPCASE CARRIER TUBE-TYPE BLACK FOR APRILIA LEONARDO 125/150 (1999-2001) crawling completed
+[2024-06-10 14:50:31][TRACE]Current model options : Leonardo 150 (1999-2000)
+[2024-06-10 14:50:38][DEBUG]Found item : Topcase carrier tube-type black for Aprilia Leonardo 125/150 (1999-2001)
+[2024-06-10 14:50:52][INFO]Item TOPCASE CARRIER TUBE-TYPE BLACK FOR APRILIA LEONARDO 125/150 (1999-2001) crawling completed
+[2024-06-10 14:51:04][TRACE]Current model options : Leonardo 250 (1999-2001)
+[2024-06-10 14:51:11][DEBUG]Found item : Topcase carrier tube-type silver for Aprilia Leonardo 250 (1999-2001)
+[2024-06-10 14:51:17][DEBUG]Image 'https://www.hepco-becker.de/media/53/2e/2d/1639743034/gepaeckbruecke_650829_0109_2.jpg' download completed
+[2024-06-10 14:51:19][DEBUG]Image 'https://www.hepco-becker.de/media/92/22/87/1639743270/gepaeckbruecke_650829_0109_152bded.jpg' download completed
+[2024-06-10 14:51:19][INFO]Item TOPCASE CARRIER TUBE-TYPE SILVER FOR APRILIA LEONARDO 250 (1999-2001) crawling completed
+[2024-06-10 14:51:30][TRACE]Current model options : NA 850 Mana / GT (2007-)
+[2024-06-10 14:51:37][DEBUG]Found item : Alurack top case carrier black for Aprilia NA 850 Mana/GT (2007-)
+[2024-06-10 14:51:37][DEBUG]Found item : Easyrack topcasecarrier black for Aprilia NA 850 Mana/GT (2007-)
+[2024-06-10 14:51:37][DEBUG]Found item : C-Bow sidecarrier for Aprilia NA 850 Mana/GT (2007-)
+[2024-06-10 14:51:37][DEBUG]Found item : Handhold for pillion seat passanger for Aprilia NA 850 Mana / GT
+[2024-06-10 14:51:37][DEBUG]Found item : Sidecarrier Lock-it black for Aprilia NA 850 Mana/GT (2007-)
+[2024-06-10 14:51:43][DEBUG]Image 'https://www.hepco-becker.de/media/e8/92/48/1639742975/alurack_650776_0101_2.jpg' download completed
+[2024-06-10 14:51:44][DEBUG]Image 'https://www.hepco-becker.de/media/82/4e/5e/1639743152/alurack_650776_0101_154f042.jpg' download completed
+[2024-06-10 14:51:44][INFO]Item ALURACK TOP CASE CARRIER BLACK FOR APRILIA NA 850 MANA/GT (2007-) crawling completed
+[2024-06-10 14:51:52][DEBUG]Image 'https://www.hepco-becker.de/media/a7/f4/24/1639743225/easyrack_178.jpg' download completed
+[2024-06-10 14:51:54][DEBUG]Image 'https://www.hepco-becker.de/media/c1/7f/d7/1639743037/easyrack_shop_15299205.jpg' download completed
+[2024-06-10 14:51:54][INFO]Item EASYRACK TOPCASECARRIER BLACK FOR APRILIA NA 850 MANA/GT (2007-) crawling completed
+[2024-06-10 14:52:03][DEBUG]Image 'https://www.hepco-becker.de/media/e6/95/60/1639743283/c_bow_630776_2.jpg' download completed
+[2024-06-10 14:52:05][DEBUG]Image 'https://www.hepco-becker.de/media/b8/b9/4c/1639743097/c_bow_630776_15483fc.jpg' download completed
+[2024-06-10 14:52:05][INFO]Item C-BOW SIDECARRIER FOR APRILIA NA 850 MANA/GT (2007-) crawling completed
+[2024-06-10 14:52:14][DEBUG]Image 'https://www.hepco-becker.de/media/6c/35/4e/1639743049/haltegriff_700007437_2.jpg' download completed
+[2024-06-10 14:52:16][DEBUG]Image 'https://www.hepco-becker.de/media/bf/19/ca/1639742984/haltegriff_700007437_15ede59.jpg' download completed
+[2024-06-10 14:52:16][INFO]Item HANDHOLD FOR PILLION SEAT PASSANGER FOR APRILIA NA 850 MANA / GT crawling completed
+[2024-06-10 14:52:26][DEBUG]Image 'https://www.hepco-becker.de/media/d4/88/62/1639743091/koffertraeger_lock_it_650776_0001_2.jpg' download completed
+[2024-06-10 14:52:28][DEBUG]Image 'https://www.hepco-becker.de/media/66/58/9d/1639742927/koffertraeger_lock_it_650776_0001_1513bb8.jpg' download completed
+[2024-06-10 14:52:28][INFO]Item SIDECARRIER LOCK-IT BLACK FOR APRILIA NA 850 MANA/GT (2007-) crawling completed
+[2024-06-10 14:52:40][TRACE]Current model options : Pegaso 650 (1992-1995)
+[2024-06-10 14:52:47][DEBUG]Found item : Sidecarrier permanent mounted black for Aprilia Pegaso 650 (1992-1995)
+[2024-06-10 14:52:47][DEBUG]Found item : Topcase carrier tube-type black for Aprilia Pegaso 650 (1992-1995)
+[2024-06-10 14:52:52][DEBUG]Image 'https://www.hepco-becker.de/media/b7/23/fd/1639743297/6507260001_kt_2.jpg' download completed
+[2024-06-10 14:52:54][DEBUG]Image 'https://www.hepco-becker.de/media/09/cb/a2/1639743016/6507260001_kt_30d2332.jpg' download completed
+[2024-06-10 14:52:54][INFO]Item SIDECARRIER PERMANENT MOUNTED BLACK FOR APRILIA PEGASO 650 (1992-1995) crawling completed
+[2024-06-10 14:53:08][DEBUG]Image 'https://www.hepco-becker.de/media/ed/e5/df/1639742982/6507260001_kt_3152f56.jpg' download completed
+[2024-06-10 14:53:08][INFO]Item TOPCASE CARRIER TUBE-TYPE BLACK FOR APRILIA PEGASO 650 (1992-1995) crawling completed
+[2024-06-10 14:53:19][TRACE]Current model options : Pegaso 650 (1996)
+[2024-06-10 14:53:26][DEBUG]Found item : Engine protection bar black for Aprilia Pegaso 650 (1996)
+[2024-06-10 14:53:26][DEBUG]Found item : Topcase carrier tube-type black for Aprilia Pegaso 650 (1996)
+[2024-06-10 14:53:26][DEBUG]Found item : Sidecarrier permanent mounted black for Aprilia Pegaso 650 (1996)
+[2024-06-10 14:53:35][DEBUG]Image 'https://www.hepco-becker.de/media/c3/57/c7/1639742973/502701_00_011173b.jpg' download completed
+[2024-06-10 14:53:35][INFO]Item ENGINE PROTECTION BAR BLACK FOR APRILIA PEGASO 650 (1996) crawling completed
+[2024-06-10 14:53:44][DEBUG]Image 'https://www.hepco-becker.de/media/53/47/89/1639743033/6507480101_gb_2.jpg' download completed
+[2024-06-10 14:53:46][DEBUG]Image 'https://www.hepco-becker.de/media/6a/f8/cc/1639743015/6507480101_gb_15e4f5d.jpg' download completed
+[2024-06-10 14:53:46][INFO]Item TOPCASE CARRIER TUBE-TYPE BLACK FOR APRILIA PEGASO 650 (1996) crawling completed
+[2024-06-10 14:53:57][DEBUG]Image 'https://www.hepco-becker.de/media/e0/47/97/1639743011/6507480001_kf_2.jpg' download completed
+[2024-06-10 14:53:58][DEBUG]Image 'https://www.hepco-becker.de/media/15/63/31/1639743068/6507480001_kf_155b388.jpg' download completed
+[2024-06-10 14:53:58][INFO]Item SIDECARRIER PERMANENT MOUNTED BLACK FOR APRILIA PEGASO 650 (1996) crawling completed
+[2024-06-10 14:54:11][TRACE]Current model options : Pegaso 650 / Garda (1997-2004)
+[2024-06-10 14:54:17][DEBUG]Found item : Sidecarrier permanent mounted black for Aprilia Pegaso 650/Garda (1997-2004)
+[2024-06-10 14:54:17][DEBUG]Found item : Engine protection bar black for Aprilia Pegaso 650/Garda (1997-2004)
+[2024-06-10 14:54:18][DEBUG]Found item : Topcase carrier tube-type black for Aprilia Pegaso 650/Garda (1997-2004)
+[2024-06-10 14:54:23][DEBUG]Image 'https://www.hepco-becker.de/media/c1/da/ac/1639743022/650750_00_01_koffertraeger_2.jpg' download completed
+[2024-06-10 14:54:25][DEBUG]Image 'https://www.hepco-becker.de/media/b2/40/8f/1639743020/650750_00_01_koffertraeger_15ae63a.jpg' download completed
+[2024-06-10 14:54:25][INFO]Item SIDECARRIER PERMANENT MOUNTED BLACK FOR APRILIA PEGASO 650/GARDA (1997-2004) crawling completed
+[2024-06-10 14:54:38][DEBUG]Image 'https://www.hepco-becker.de/media/28/ec/a4/1639742993/502702_00_0171d95.jpg' download completed
+[2024-06-10 14:54:38][INFO]Item ENGINE PROTECTION BAR BLACK FOR APRILIA PEGASO 650/GARDA (1997-2004) crawling completed
+[2024-06-10 14:54:47][DEBUG]Image 'https://www.hepco-becker.de/media/13/c8/b0/1639743242/650750_01_01_bruecke_2.jpg' download completed
+[2024-06-10 14:54:49][DEBUG]Image 'https://www.hepco-becker.de/media/81/66/f3/1639743219/650750_01_01_bruecke_1537781.jpg' download completed
+[2024-06-10 14:54:49][INFO]Item TOPCASE CARRIER TUBE-TYPE BLACK FOR APRILIA PEGASO 650/GARDA (1997-2004) crawling completed
+[2024-06-10 14:55:02][TRACE]Current model options : Pegaso 650 Strada/Trail 650 (2005-2009)
+[2024-06-10 14:55:08][DEBUG]Found item : Engine protection bar black for Aprilia Pegaso 650 Strada/Trail 650 (2005-2009)
+[2024-06-10 14:55:09][DEBUG]Found item : Topcase carrier tube-type black for Aprilia Pegaso 650 Strada/Trail 650 (2005-2009)
+[2024-06-10 14:55:09][DEBUG]Found item : Center Stand for Aprilia Pegaso 650 Trail (2006-2009)
+[2024-06-10 14:55:09][DEBUG]Found item : Sidecarrier Lock-it black for Aprilia Pegaso 650 Strada/Trail 650 (2005-2009)
+[2024-06-10 14:55:09][DEBUG]Found item : Center Stand for Aprilia Pegaso 650 Strada (2005-2009)
+[2024-06-10 14:55:09][DEBUG]Found item : Tankring BASIC incl. fastener for tankbag for Aprilia Pegaso 650 Strada/Trail 650 (2005-2009)
+[2024-06-10 14:55:09][DEBUG]Found item : Tankring Lock-it incl. fastener for tankbag for Aprilia Pegaso 650 Strada/Trail 650 (2005-2009)
+[2024-06-10 14:55:15][DEBUG]Image 'https://www.hepco-becker.de/media/0b/49/de/1639743025/motorschutzbuegel_502791_0001_2.jpg' download completed
+[2024-06-10 14:55:17][DEBUG]Image 'https://www.hepco-becker.de/media/2c/c9/a7/1639743277/motorschutzbuegel_502791_0001_1553b7b.jpg' download completed
+[2024-06-10 14:55:17][INFO]Item ENGINE PROTECTION BAR BLACK FOR APRILIA PEGASO 650 STRADA/TRAIL 650 (2005-2009) crawling completed
+[2024-06-10 14:55:25][DEBUG]Image 'https://www.hepco-becker.de/media/dc/71/8d/1639742914/gepaeckbruecke_650791_0101_2.jpg' download completed
+[2024-06-10 14:55:27][DEBUG]Image 'https://www.hepco-becker.de/media/92/b4/bd/1639743065/gepaeckbruecke_650791_0101_155f02a.jpg' download completed
+[2024-06-10 14:55:27][INFO]Item TOPCASE CARRIER TUBE-TYPE BLACK FOR APRILIA PEGASO 650 STRADA/TRAIL 650 (2005-2009) crawling completed
+[2024-06-10 14:55:35][DEBUG]Image 'https://www.hepco-becker.de/media/38/59/91/1639743198/hauptstaender_505792_0001_2.jpg' download completed
+[2024-06-10 14:55:36][DEBUG]Image 'https://www.hepco-becker.de/media/4b/81/c2/1639743272/hauptstaender_505792_0001_1576e58.jpg' download completed
+[2024-06-10 14:55:36][INFO]Item CENTER STAND FOR APRILIA PEGASO 650 TRAIL (2006-2009) crawling completed
+[2024-06-10 14:55:47][DEBUG]Image 'https://www.hepco-becker.de/media/84/03/b6/1639743112/koffertraeger_lock_it_650791_0001_2.jpg' download completed
+[2024-06-10 14:55:48][DEBUG]Image 'https://www.hepco-becker.de/media/38/e4/51/1639743156/koffertraeger_lock_it_650791_0001_15ce065.jpg' download completed
+[2024-06-10 14:55:48][INFO]Item SIDECARRIER LOCK-IT BLACK FOR APRILIA PEGASO 650 STRADA/TRAIL 650 (2005-2009) crawling completed
+[2024-06-10 14:55:57][DEBUG]Image 'https://www.hepco-becker.de/media/e6/b6/db/1639743134/hauptstaender_505791_000_2.jpg' download completed
+[2024-06-10 14:55:58][DEBUG]Image 'https://www.hepco-becker.de/media/4c/4a/47/1639743007/hauptstaender_505791_000_15bdb1e.jpg' download completed
+[2024-06-10 14:55:58][INFO]Item CENTER STAND FOR APRILIA PEGASO 650 STRADA (2005-2009) crawling completed
+[2024-06-10 14:56:13][DEBUG]Image 'https://www.hepco-becker.de/media/52/11/16/1683617819/516001-6_shop.jpg' download completed
+[2024-06-10 14:56:13][INFO]Item TANKRING BASIC INCL. FASTENER FOR TANKBAG FOR APRILIA PEGASO 650 STRADA/TRAIL 650 (2005-2009) crawling completed
+[2024-06-10 14:56:28][DEBUG]Image 'https://www.hepco-becker.de/media/88/d6/92/1639743120/506001-6_shop_1_1_1_1_1_1_2_1_1_1_1_1_1_1_1_2_1_1_1_1_2_1_2_1_1_1_1_1_1_1_1_1adc47.jpg' download completed
+[2024-06-10 14:56:28][INFO]Item TANKRING LOCK-IT INCL. FASTENER FOR TANKBAG FOR APRILIA PEGASO 650 STRADA/TRAIL 650 (2005-2009) crawling completed
+[2024-06-10 14:56:39][TRACE]Current model options : Rally 50
+[2024-06-10 14:56:46][DEBUG]Found item : Tube rear rack black for Aprilia Rally 50 (1995-1998)
+[2024-06-10 14:57:00][INFO]Item TUBE REAR RACK BLACK FOR APRILIA RALLY 50 (1995-1998) crawling completed
+[2024-06-10 14:57:12][TRACE]Current model options : RS 125 (2006-)
+[2024-06-10 14:57:19][DEBUG]Found item : Tankring Lock-it universal 6 hole mounting for "check info on manual"
+[2024-06-10 14:57:19][DEBUG]Found item : Tankring BASIC universal 6 hole mountig for "check info manual"
+[2024-06-10 14:57:30][DEBUG]Image 'https://www.hepco-becker.de/media/11/b5/c3/1684910864/506001-6_shop.jpg' download completed
+[2024-06-10 14:57:30][INFO]Item TANKRING LOCK-IT UNIVERSAL 6 HOLE MOUNTING FOR "CHECK INFO ON MANUAL" crawling completed
+[2024-06-10 14:57:43][DEBUG]Image 'https://www.hepco-becker.de/media/52/11/16/1683617819/516001-6_shop.jpg' download completed
+[2024-06-10 14:57:43][INFO]Item TANKRING BASIC UNIVERSAL 6 HOLE MOUNTIG FOR "CHECK INFO MANUAL" crawling completed
+[2024-06-10 14:57:54][TRACE]Current model options : RST 1000 Futura (2001-2003)
+[2024-06-10 14:58:01][DEBUG]Found item : Topcase carrier tube-type black for Aprilia RST 1000 Futura (2001-2003)
+[2024-06-10 14:58:01][DEBUG]Found item : Tankring BASIC incl. fastener for tankbag for Aprilia RST 1000 Futura (2001-2003)
+[2024-06-10 14:58:01][DEBUG]Found item : Tankring Lock-it incl. fastener for tankbag for Aprilia RST 1000 Futura (2001-2003)
+[2024-06-10 14:58:08][DEBUG]Image 'https://www.hepco-becker.de/media/be/79/0a/1639743279/gepaeckbruecke_650771_0101_2.jpg' download completed
+[2024-06-10 14:58:09][DEBUG]Image 'https://www.hepco-becker.de/media/bd/2f/67/1639742943/gepaeckbruecke_650771_0101_15f99b4.jpg' download completed
+[2024-06-10 14:58:09][INFO]Item TOPCASE CARRIER TUBE-TYPE BLACK FOR APRILIA RST 1000 FUTURA (2001-2003) crawling completed
+[2024-06-10 14:58:23][DEBUG]Image 'https://www.hepco-becker.de/media/9e/4c/73/1684844715/516017-4_shop.jpg' download completed
+[2024-06-10 14:58:23][INFO]Item TANKRING BASIC INCL. FASTENER FOR TANKBAG FOR APRILIA RST 1000 FUTURA (2001-2003) crawling completed
+[2024-06-10 14:58:38][DEBUG]Image 'https://www.hepco-becker.de/media/33/65/fe/1688641992/506017-4.jpg' download completed
+[2024-06-10 14:58:38][INFO]Item TANKRING LOCK-IT INCL. FASTENER FOR TANKBAG FOR APRILIA RST 1000 FUTURA (2001-2003) crawling completed
+[2024-06-10 14:58:50][TRACE]Current model options : RSV4 (2011-2020)
+[2024-06-10 14:58:56][DEBUG]Found item : Sportrack for APRILIA RSV4 (2011-2020) RSV4 RF/RR (2015-2020) TUONO V4 1100 FACTORY (2015-2020)
+[2024-06-10 14:59:02][DEBUG]Image 'https://www.hepco-becker.de/media/e8/1a/c3/1639743128/sportrack_670701_2.jpg' download completed
+[2024-06-10 14:59:04][DEBUG]Image 'https://www.hepco-becker.de/media/f5/d1/ae/1639742984/sportrack_670701_1586b1a.jpg' download completed
+[2024-06-10 14:59:04][INFO]Item SPORTRACK FOR APRILIA RSV4 (2011-2020) RSV4 RF/RR (2015-2020) TUONO V4 1100 FACTORY (2015-2020) crawling completed
+[2024-06-10 14:59:16][TRACE]Current model options : RSV4 RR (2015-2020)
+[2024-06-10 14:59:22][DEBUG]Found item : Sportrack for APRILIA RSV4 (2011-2020) RSV4 RF/RR (2015-2020) TUONO V4 1100 FACTORY (2015-2020)
+[2024-06-10 14:59:27][DEBUG]Image 'https://www.hepco-becker.de/media/e8/1a/c3/1639743128/sportrack_670701_2.jpg' download completed
+[2024-06-10 14:59:28][DEBUG]Image 'https://www.hepco-becker.de/media/f5/d1/ae/1639742984/sportrack_670701_1586b1a.jpg' download completed
+[2024-06-10 14:59:28][INFO]Item SPORTRACK FOR APRILIA RSV4 (2011-2020) RSV4 RF/RR (2015-2020) TUONO V4 1100 FACTORY (2015-2020) crawling completed
+[2024-06-10 14:59:40][TRACE]Current model options : RSV4 RR/RF (2017-2020)
+[2024-06-10 14:59:47][DEBUG]Found item : Sportrack for APRILIA RSV4 (2011-2020) RSV4 RF/RR (2015-2020) TUONO V4 1100 FACTORY (2015-2020)
+[2024-06-10 14:59:51][DEBUG]Image 'https://www.hepco-becker.de/media/e8/1a/c3/1639743128/sportrack_670701_2.jpg' download completed
+[2024-06-10 14:59:53][DEBUG]Image 'https://www.hepco-becker.de/media/f5/d1/ae/1639742984/sportrack_670701_1586b1a.jpg' download completed
+[2024-06-10 14:59:53][INFO]Item SPORTRACK FOR APRILIA RSV4 (2011-2020) RSV4 RF/RR (2015-2020) TUONO V4 1100 FACTORY (2015-2020) crawling completed
+[2024-06-10 15:00:04][TRACE]Current model options : RSV4 / RSV4 Factory (2021-)
+[2024-06-10 15:00:10][DEBUG]Found item : Sportrack for Aprilia Tuono V4 Factory / RSV4 / RSV4 Factory (2021-) (permanent mounted)
+[2024-06-10 15:00:11][DEBUG]Found item : C-Bow sidecarrier for Aprilia Tuono V4 Factory/RSV 4/RSV 4 Factory (2021-)
+[2024-06-10 15:00:16][DEBUG]Image 'https://www.hepco-becker.de/media/af/4c/8c/1642068994/6707626_00_01_Sportrack_01_shop.jpg' download completed
+[2024-06-10 15:00:18][DEBUG]Image 'https://www.hepco-becker.de/media/e7/f4/73/1642068994/6707626_00_01_Sportrack_02_shop.jpg' download completed
+[2024-06-10 15:00:20][DEBUG]Image 'https://www.hepco-becker.de/media/5d/6c/07/1639742954/m_rearbagblack_sportrack_shopdcc6d.jpg' download completed
+[2024-06-10 15:00:21][DEBUG]Image 'https://www.hepco-becker.de/media/b6/71/a0/1639743107/m_rearbagyellow_sportrack_shopb0fac.jpg' download completed
+[2024-06-10 15:00:23][DEBUG]Image 'https://www.hepco-becker.de/media/dd/2e/f2/1639742976/m_roysterblack_rearbag_sportrack_shop7bde9.jpg' download completed
+[2024-06-10 15:00:24][DEBUG]Image 'https://www.hepco-becker.de/media/5c/58/48/1639743183/m_roysterblack_sport_sportrack_shopa9f9d.jpg' download completed
+[2024-06-10 15:00:26][DEBUG]Image 'https://www.hepco-becker.de/media/b8/c9/1d/1639743056/m_royster_sport_sportrack_shop8cc72.jpg' download completed
+[2024-06-10 15:00:28][DEBUG]Image 'https://www.hepco-becker.de/media/34/93/36/1639743055/m_roysteryellow_rearbag_sportrack_shop6699f.jpg' download completed
+[2024-06-10 15:00:29][DEBUG]Image 'https://www.hepco-becker.de/media/a4/a8/d1/1639743260/m_street_hecktasche_shop_1e7bb2.jpg' download completed
+[2024-06-10 15:00:29][INFO]Item SPORTRACK FOR APRILIA TUONO V4 FACTORY / RSV4 / RSV4 FACTORY (2021-) (PERMANENT MOUNTED) crawling completed
+[2024-06-10 15:00:39][DEBUG]Image 'https://www.hepco-becker.de/media/de/31/c7/1639743188/6307626_00_01_c-bow_shop1c763.jpg' download completed
+[2024-06-10 15:00:41][DEBUG]Image 'https://www.hepco-becker.de/media/1e/3c/14/1639743244/6307626_00_01_c-bow_hinten_shop17ccd.jpg' download completed
+[2024-06-10 15:00:42][DEBUG]Image 'https://www.hepco-becker.de/media/41/32/ff/1639742983/m_roysterblack_shop_19bb559.jpg' download completed
+[2024-06-10 15:00:44][DEBUG]Image 'https://www.hepco-becker.de/media/83/67/70/1639743081/m_roysteryellow_shop_3eb992.jpg' download completed
+[2024-06-10 15:00:44][INFO]Item C-BOW SIDECARRIER FOR APRILIA TUONO V4 FACTORY/RSV 4/RSV 4 FACTORY (2021-) crawling completed
+[2024-06-10 15:00:55][TRACE]Current model options : RSV Mille/Tuono (1998-2008)
+[2024-06-10 15:01:02][DEBUG]Found item : Topcase carrier tube-type black for Aprilia RSV Mille/Tuono (1998-2008)
+[2024-06-10 15:01:02][DEBUG]Found item : Tankring Lock-it incl. fastener for tankbag for Aprilia RSV Mille/Tuono (1998-2008)
+[2024-06-10 15:01:02][DEBUG]Found item : Tankring BASIC incl. fastener for tankbag for Aprilia RSV Mille/Tuono (1998-2008)
+[2024-06-10 15:01:09][DEBUG]Image 'https://www.hepco-becker.de/media/0c/b0/90/1639743109/gepaeckbruecke_650780_0101_4.jpg' download completed
+[2024-06-10 15:01:11][DEBUG]Image 'https://www.hepco-becker.de/media/ac/59/2e/1639743113/gepaeckbruecke_650780_0101_181619d.jpg' download completed
+[2024-06-10 15:01:11][INFO]Item TOPCASE CARRIER TUBE-TYPE BLACK FOR APRILIA RSV MILLE/TUONO (1998-2008) crawling completed
+[2024-06-10 15:01:27][DEBUG]Image 'https://www.hepco-becker.de/media/33/65/fe/1688641992/506017-4.jpg' download completed
+[2024-06-10 15:01:27][INFO]Item TANKRING LOCK-IT INCL. FASTENER FOR TANKBAG FOR APRILIA RSV MILLE/TUONO (1998-2008) crawling completed
+[2024-06-10 15:01:41][DEBUG]Image 'https://www.hepco-becker.de/media/9e/4c/73/1684844715/516017-4_shop.jpg' download completed
+[2024-06-10 15:01:41][INFO]Item TANKRING BASIC INCL. FASTENER FOR TANKBAG FOR APRILIA RSV MILLE/TUONO (1998-2008) crawling completed
+[2024-06-10 15:01:52][TRACE]Current model options : Shiver 900 (2017-)
+[2024-06-10 15:01:59][DEBUG]Found item : C-Bow sidecarrier black for Aprilia Shiver 900 (2017-)
+[2024-06-10 15:01:59][DEBUG]Found item : Tankring Lock-it incl. fastener for tankbag for Aprilia Shiver 900 (2017-)
+[2024-06-10 15:02:00][DEBUG]Found item : Tankring BASIC incl. fastener for tankbag for Aprilia Shiver 900 (2017-)
+[2024-06-10 15:02:06][DEBUG]Image 'https://www.hepco-becker.de/media/78/29/ae/1639743024/6307549_00_01_c-bow_hitzeschutzblech_01_shop2c2e4.jpg' download completed
+[2024-06-10 15:02:08][DEBUG]Image 'https://www.hepco-becker.de/media/f0/ed/26/1639743207/6307549_00_01_c-bow_hitzeschutzblech_02_shop5f78f.jpg' download completed
+[2024-06-10 15:02:08][INFO]Item C-BOW SIDECARRIER BLACK FOR APRILIA SHIVER 900 (2017-) crawling completed
+[2024-06-10 15:02:16][DEBUG]Image 'https://www.hepco-becker.de/media/5c/f2/2d/1639743282/5066507_00_09_tankring_shop_3691c0.jpg' download completed
+[2024-06-10 15:02:18][DEBUG]Image 'https://www.hepco-becker.de/media/46/ab/4e/1639743077/bildschirmfoto_2015-07-27_um_16-46-11_6_1.png' download completed
+[2024-06-10 15:02:18][INFO]Item TANKRING LOCK-IT INCL. FASTENER FOR TANKBAG FOR APRILIA SHIVER 900 (2017-) crawling completed
+[2024-06-10 15:02:31][DEBUG]Image 'https://www.hepco-becker.de/media/52/11/16/1683617819/516001-6_shop.jpg' download completed
+[2024-06-10 15:02:31][INFO]Item TANKRING BASIC INCL. FASTENER FOR TANKBAG FOR APRILIA SHIVER 900 (2017-) crawling completed
+[2024-06-10 15:02:42][TRACE]Current model options : SL 1000 Falco (2000-2003)
+[2024-06-10 15:02:49][DEBUG]Found item : Topcase carrier tube-type black for Aprilia SL 1000 Falco (2000-2003)
+[2024-06-10 15:02:49][DEBUG]Found item : Tankring BASIC incl. fastener for tankbag for Aprilia SL 1000 Falco (2000-2003)
+[2024-06-10 15:02:49][DEBUG]Found item : Tankring Lock-it incl. fastener for tankbag for Aprilia SL 1000 Falco (2000-2003)
+[2024-06-10 15:02:55][DEBUG]Image 'https://www.hepco-becker.de/media/62/c2/20/1639743178/gepaeckbruecke_650767_0101_2.jpg' download completed
+[2024-06-10 15:02:57][DEBUG]Image 'https://www.hepco-becker.de/media/0e/74/b6/1639743155/gepaeckbruecke_650767_0101_157b439.jpg' download completed
+[2024-06-10 15:02:57][INFO]Item TOPCASE CARRIER TUBE-TYPE BLACK FOR APRILIA SL 1000 FALCO (2000-2003) crawling completed
+[2024-06-10 15:03:12][DEBUG]Image 'https://www.hepco-becker.de/media/52/11/16/1683617819/516001-6_shop.jpg' download completed
+[2024-06-10 15:03:12][INFO]Item TANKRING BASIC INCL. FASTENER FOR TANKBAG FOR APRILIA SL 1000 FALCO (2000-2003) crawling completed
+[2024-06-10 15:03:25][DEBUG]Image 'https://www.hepco-becker.de/media/08/07/0d/1639743145/506001-6_shop_1_1_1_1_1_1_2_1_1_1_1_1_1_1_1_2_1_1_1_1_2_1_2_1_1_198ce7.jpg' download completed
+[2024-06-10 15:03:25][INFO]Item TANKRING LOCK-IT INCL. FASTENER FOR TANKBAG FOR APRILIA SL 1000 FALCO (2000-2003) crawling completed
+[2024-06-10 15:03:38][TRACE]Current model options : SL 750 Shiver / GT (2007-2016)
+[2024-06-10 15:03:44][DEBUG]Found item : C-Bow sidecarrier for Aprilia SL 750 Shiver (2007-2009)/GT (2009-2016)
+[2024-06-10 15:03:44][DEBUG]Found item : Alurack top case carrier black for Aprilia SL 750 Shiver (2007-2009)/GT (2009-2016)
+[2024-06-10 15:03:44][DEBUG]Found item : Tankring Lock-it incl. fastener for tankbag for Aprilia SL 750 Shiver (2007-2009)
+[2024-06-10 15:03:44][DEBUG]Found item : Easyrack topcasecarrier black for Aprilia SL 750 Shiver (2007-2009)/GT (2009-2016)
+[2024-06-10 15:03:44][DEBUG]Found item : Tankring BASIC incl. fastener for tankbag for Aprilia SL 750 Shiver (2007-2009)
+[2024-06-10 15:03:51][DEBUG]Image 'https://www.hepco-becker.de/media/g0/58/de/1639743198/630752_184838a.jpg' download completed
+[2024-06-10 15:03:52][DEBUG]Image 'https://www.hepco-becker.de/media/95/31/6b/1639743219/630752_16b2952.jpg' download completed
+[2024-06-10 15:03:52][INFO]Item C-BOW SIDECARRIER FOR APRILIA SL 750 SHIVER (2007-2009)/GT (2009-2016) crawling completed
+[2024-06-10 15:04:02][DEBUG]Image 'https://www.hepco-becker.de/media/28/33/f2/1639743021/alurack_650752_0101_2.jpg' download completed
+[2024-06-10 15:04:03][DEBUG]Image 'https://www.hepco-becker.de/media/06/e9/bb/1639742942/alurack_650752_0101_1569cce.jpg' download completed
+[2024-06-10 15:04:03][INFO]Item ALURACK TOP CASE CARRIER BLACK FOR APRILIA SL 750 SHIVER (2007-2009)/GT (2009-2016) crawling completed
+[2024-06-10 15:04:17][DEBUG]Image 'https://www.hepco-becker.de/media/c0/98/a6/1639742971/506001-6_shop_1_1_1_1_1_1_2_1_1_1_1_1_1_1_1_21273e.jpg' download completed
+[2024-06-10 15:04:17][INFO]Item TANKRING LOCK-IT INCL. FASTENER FOR TANKBAG FOR APRILIA SL 750 SHIVER (2007-2009) crawling completed
+[2024-06-10 15:04:28][DEBUG]Image 'https://www.hepco-becker.de/media/a3/64/55/1639743277/easyrack_180.jpg' download completed
+[2024-06-10 15:04:29][DEBUG]Image 'https://www.hepco-becker.de/media/4f/9c/2c/1639743194/easyrack_shop_12604226.jpg' download completed
+[2024-06-10 15:04:29][INFO]Item EASYRACK TOPCASECARRIER BLACK FOR APRILIA SL 750 SHIVER (2007-2009)/GT (2009-2016) crawling completed
+[2024-06-10 15:04:42][DEBUG]Image 'https://www.hepco-becker.de/media/52/11/16/1683617819/516001-6_shop.jpg' download completed
+[2024-06-10 15:04:42][INFO]Item TANKRING BASIC INCL. FASTENER FOR TANKBAG FOR APRILIA SL 750 SHIVER (2007-2009) crawling completed
+[2024-06-10 15:04:53][TRACE]Current model options : SL 750 Shiver (2010-2016)
+[2024-06-10 15:05:00][DEBUG]Found item : C-Bow sidecarrier for Aprilia SL 750 Shiver (2010-2016)
+[2024-06-10 15:05:00][DEBUG]Found item : Alurack top case carrier black for Aprilia SL 750 Shiver (2010-2016)
+[2024-06-10 15:05:00][DEBUG]Found item : Easyrack topcasecarrier black for Aprilia SL 750 Shiver (2010-2016)
+[2024-06-10 15:05:07][DEBUG]Image 'https://www.hepco-becker.de/media/4b/50/5a/1639743126/c_bow_6307508_2.jpg' download completed
+[2024-06-10 15:05:08][DEBUG]Image 'https://www.hepco-becker.de/media/60/b7/dd/1639743032/c_bow_6307508_1549e89.jpg' download completed
+[2024-06-10 15:05:08][INFO]Item C-BOW SIDECARRIER FOR APRILIA SL 750 SHIVER (2010-2016) crawling completed
+[2024-06-10 15:05:18][DEBUG]Image 'https://www.hepco-becker.de/media/6f/a2/bb/1639742947/alurack_6507508_0101_2.jpg' download completed
+[2024-06-10 15:05:19][DEBUG]Image 'https://www.hepco-becker.de/media/ac/29/47/1639743060/alurack_6507508_0101_1509550.jpg' download completed
+[2024-06-10 15:05:19][INFO]Item ALURACK TOP CASE CARRIER BLACK FOR APRILIA SL 750 SHIVER (2010-2016) crawling completed
+[2024-06-10 15:05:29][DEBUG]Image 'https://www.hepco-becker.de/media/cf/68/51/1639742969/easyrack_179.jpg' download completed
+[2024-06-10 15:05:30][DEBUG]Image 'https://www.hepco-becker.de/media/c2/95/d1/1639743006/easyrack_shop_12178650.jpg' download completed
+[2024-06-10 15:05:30][INFO]Item EASYRACK TOPCASECARRIER BLACK FOR APRILIA SL 750 SHIVER (2010-2016) crawling completed
+[2024-06-10 15:05:42][TRACE]Current model options : Sonic/Sonic LC
+[2024-06-10 15:05:48][DEBUG]Found item : Topcase carrier tube-type black for Aprilia Sonic/LC (1998-2003)
+[2024-06-10 15:05:54][DEBUG]Image 'https://www.hepco-becker.de/media/b0/54/1c/1639742973/gepaeckbruecke_650827_0101_2.jpg' download completed
+[2024-06-10 15:05:56][DEBUG]Image 'https://www.hepco-becker.de/media/c6/ed/ca/1639743065/gepaeckbruecke_650827_0101_15edf65.jpg' download completed
+[2024-06-10 15:05:56][INFO]Item TOPCASE CARRIER TUBE-TYPE BLACK FOR APRILIA SONIC/LC (1998-2003) crawling completed
+[2024-06-10 15:06:07][TRACE]Current model options : SR 50 (1994-2000)
+[2024-06-10 15:06:13][DEBUG]Found item : Tube rear rack black for Aprilia SR 50 (1994-2003)
+[2024-06-10 15:06:27][INFO]Item TUBE REAR RACK BLACK FOR APRILIA SR 50 (1994-2003) crawling completed
+[2024-06-10 15:06:39][TRACE]Current model options : SR 50 WWW (1997-2004)
+[2024-06-10 15:07:02][DEBUG]Found item : Tube rear rack black for Aprilia SR 50. WWW  (1997-2004)
+[2024-06-10 15:07:21][DEBUG]Image 'https://www.hepco-becker.de/media/bb/8b/4b/1639743100/gepaeckbruecke_650826_0001_4.jpg' download completed
+[2024-06-10 15:07:21][INFO]Item TUBE REAR RACK BLACK FOR APRILIA SR 50. WWW (1997-2004) crawling completed
+[2024-06-10 15:07:54][TRACE]Current model options : SR 50 R / Factory (2005-)
+[2024-06-10 15:08:36][DEBUG]Found item : Rear carrier black for Aprilia SR 50 R / Factory from 2005
+[2024-06-10 15:08:46][DEBUG]Image 'https://www.hepco-becker.de/media/83/b4/54/1639743194/gepaeckbruecke_650826_0001_5.jpg' download completed
+[2024-06-10 15:08:46][INFO]Item REAR CARRIER BLACK FOR APRILIA SR 50 R / FACTORY FROM 2005 crawling completed
+[2024-06-10 15:08:58][TRACE]Current model options : SR GT 125/200/Sport (2022-)
+[2024-06-10 15:09:05][DEBUG]Found item : Easyrack topcasecarrier for Aprilia SR GT 125/200/Sport (ab 2022)
+[2024-06-10 15:09:05][DEBUG]Found item : Topcase - Set Journey 30 incl. carrier for Aprilia SR GT 125/200/Sport (ab 2022)
+[2024-06-10 15:09:05][DEBUG]Found item : Minirack soft luggage rear rack for Aprilia SR GT 125/200/Sport (ab 2022)
+[2024-06-10 15:09:05][DEBUG]Found item : Topcase - Set Journey 40 black incl. carrier for Aprilia SR GT 125/200/Sport (ab 2022)
+[2024-06-10 15:09:05][DEBUG]Found item : Alurack top case carrier black for Aprilia SR GT 125/200/Sport (ab 2022)
+[2024-06-10 15:09:05][DEBUG]Found item : Topcase - Set Journey 40 black/silver incl. carrier for Aprilia SR GT 125/200/Sport (ab 2022)
+[2024-06-10 15:09:21][DEBUG]Image 'https://www.hepco-becker.de/media/1d/7b/fc/1659420689/6617648_01_01_Easyrack_shop.jpg' download completed
+[2024-06-10 15:09:22][DEBUG]Image 'https://www.hepco-becker.de/media/1c/01/c5/1639743102/easyrack_shop_189ce5f5.jpg' download completed
+[2024-06-10 15:09:22][INFO]Item EASYRACK TOPCASECARRIER FOR APRILIA SR GT 125/200/SPORT (AB 2022) crawling completed
+[2024-06-10 15:09:31][DEBUG]Image 'https://www.hepco-becker.de/media/81/84/b2/1659418690/6507648_01_01-206_SetTC30_shop.jpg' download completed
+[2024-06-10 15:09:33][DEBUG]Image 'https://www.hepco-becker.de/media/cc/90/73/1659418690/m_SetTC30_shop.jpg' download completed
+[2024-06-10 15:09:33][INFO]Item TOPCASE - SET JOURNEY 30 INCL. CARRIER FOR APRILIA SR GT 125/200/SPORT (AB 2022) crawling completed
+[2024-06-10 15:09:43][DEBUG]Image 'https://www.hepco-becker.de/media/92/fd/ee/1659420213/6607648_01_01_Minirack_shop.jpg' download completed
+[2024-06-10 15:09:45][DEBUG]Image 'https://www.hepco-becker.de/media/43/84/e3/1659420215/m_StreetHecktasche_shop_%281%29.jpg' download completed
+[2024-06-10 15:09:45][INFO]Item MINIRACK SOFT LUGGAGE REAR RACK FOR APRILIA SR GT 125/200/SPORT (AB 2022) crawling completed
+[2024-06-10 15:09:54][DEBUG]Image 'https://www.hepco-becker.de/media/7d/14/f1/1659418855/6507648_01_01-089_SetTC40bl_shop.jpg' download completed
+[2024-06-10 15:09:55][DEBUG]Image 'https://www.hepco-becker.de/media/05/a9/2f/1659418855/m_SetTC40si_shop.jpg' download completed
+[2024-06-10 15:09:57][DEBUG]Image 'https://www.hepco-becker.de/media/25/85/d1/1639743064/610089_00_01_tc40_palette_26c637.jpg' download completed
+[2024-06-10 15:09:57][INFO]Item TOPCASE - SET JOURNEY 40 BLACK INCL. CARRIER FOR APRILIA SR GT 125/200/SPORT (AB 2022) crawling completed
+[2024-06-10 15:10:12][DEBUG]Image 'https://www.hepco-becker.de/media/f6/da/4e/1659420566/6527648_01_01_Alurack_shop.jpg' download completed
+[2024-06-10 15:10:12][INFO]Item ALURACK TOP CASE CARRIER BLACK FOR APRILIA SR GT 125/200/SPORT (AB 2022) crawling completed
+[2024-06-10 15:10:21][DEBUG]Image 'https://www.hepco-becker.de/media/a4/99/60/1659419750/6507648_01_09-089_SetTC40si_shop.jpg' download completed
+[2024-06-10 15:10:23][DEBUG]Image 'https://www.hepco-becker.de/media/56/ac/e8/1659419752/m_SetTC40si_shop_%281%29.jpg' download completed
+[2024-06-10 15:10:23][INFO]Item TOPCASE - SET JOURNEY 40 BLACK/SILVER INCL. CARRIER FOR APRILIA SR GT 125/200/SPORT (AB 2022) crawling completed
+[2024-06-10 15:10:35][TRACE]Current model options : SVX 450 / 550 (2006-)
+[2024-06-10 15:10:42][DEBUG]Found item : Tankring Lock-it universal 6 hole mounting for "check info on manual"
+[2024-06-10 15:10:42][DEBUG]Found item : Tankring BASIC universal 6 hole mountig for "check info manual"
+[2024-06-10 15:10:52][DEBUG]Image 'https://www.hepco-becker.de/media/11/b5/c3/1684910864/506001-6_shop.jpg' download completed
+[2024-06-10 15:10:52][INFO]Item TANKRING LOCK-IT UNIVERSAL 6 HOLE MOUNTING FOR "CHECK INFO ON MANUAL" crawling completed
+[2024-06-10 15:11:05][DEBUG]Image 'https://www.hepco-becker.de/media/52/11/16/1683617819/516001-6_shop.jpg' download completed
+[2024-06-10 15:11:05][INFO]Item TANKRING BASIC UNIVERSAL 6 HOLE MOUNTIG FOR "CHECK INFO MANUAL" crawling completed
+[2024-06-10 15:11:17][TRACE]Current model options : SX 125 (2008-)
+[2024-06-10 15:11:23][DEBUG]Found item : Tankring Lock-it universal 6 hole mounting for "check info on manual"
+[2024-06-10 15:11:23][DEBUG]Found item : Tankring BASIC universal 6 hole mountig for "check info manual"
+[2024-06-10 15:11:34][DEBUG]Image 'https://www.hepco-becker.de/media/11/b5/c3/1684910864/506001-6_shop.jpg' download completed
+[2024-06-10 15:11:34][INFO]Item TANKRING LOCK-IT UNIVERSAL 6 HOLE MOUNTING FOR "CHECK INFO ON MANUAL" crawling completed
+[2024-06-10 15:11:47][DEBUG]Image 'https://www.hepco-becker.de/media/52/11/16/1683617819/516001-6_shop.jpg' download completed
+[2024-06-10 15:11:47][INFO]Item TANKRING BASIC UNIVERSAL 6 HOLE MOUNTIG FOR "CHECK INFO MANUAL" crawling completed
+[2024-06-10 15:11:58][TRACE]Current model options : Tuareg 600 Wind (1988-1993)
+[2024-06-10 15:12:04][DEBUG]Found item : Sidecarrier permanent mounted black for Aprilia Tuareg 600 Wind (1988-1993)
+[2024-06-10 15:12:11][DEBUG]Image 'https://www.hepco-becker.de/media/50/6f/14/1639742997/6507160001_kt_2.jpg' download completed
+[2024-06-10 15:12:12][DEBUG]Image 'https://www.hepco-becker.de/media/3e/aa/86/1639743022/6507160001_kt_15243d2.jpg' download completed
+[2024-06-10 15:12:12][INFO]Item SIDECARRIER PERMANENT MOUNTED BLACK FOR APRILIA TUAREG 600 WIND (1988-1993) crawling completed
+[2024-06-10 15:12:25][TRACE]Current model options : Tuareg 660 (2022-)
+[2024-06-10 15:12:32][DEBUG]Found item : Tankguard black for Aprilia Tuareg 660 (2022-)
+[2024-06-10 15:12:32][DEBUG]Found item : Minirack soft luggage rear rack for Aprilia Tuareg 660 (2022-)
+[2024-06-10 15:12:32][DEBUG]Found item : Headlight grill for Aprilia Tuareg 660 (2022-)
+[2024-06-10 15:12:32][DEBUG]Found item : Handle guard set black (left+right side) for Aprilia Tuareg 660 (2022-)
+[2024-06-10 15:12:32][DEBUG]Found item : Tankguard silver for Aprilia Tuareg 660 (2022-)
+[2024-06-10 15:12:32][DEBUG]Found item : Easyrack topcasecarrier black for Aprilia Tuareg 660 (2022-)
+[2024-06-10 15:12:32][DEBUG]Found item : Sidecarrier Cutout black incl. Xplorer sideboxes black for Aprilia Tuareg 660 (2022-)
+[2024-06-10 15:12:32][DEBUG]Found item : Side carrier Cutout for Xplorer Cutout cases 40/37 for Aprilia Tuareg 660 (2022-)
+[2024-06-10 15:12:32][DEBUG]Found item : Side carrier cutout black incl. Xplorer silver sideboxes for Aprilia Tuareg (2022-)
+[2024-06-10 15:12:32][DEBUG]Found item : Modelspecific rear enlargement for Aprilia Tuareg 660 (2022-)
+[2024-06-10 15:12:32][DEBUG]Found item : Center stand for Aprilia Tuareg 660 (2022-)
+[2024-06-10 15:12:32][DEBUG]Found item : Alurack top case carrier black for Aprilia Tuareg 660 (2022-)
+[2024-06-10 15:12:39][DEBUG]Image 'https://www.hepco-becker.de/media/4a/44/ec/1645181747/5027599_00_01_TSB_Solid_rechts_shop.jpg' download completed
+[2024-06-10 15:12:41][DEBUG]Image 'https://www.hepco-becker.de/media/19/98/6f/1645181747/5027599_00_01_TSB_Solid_front_shop.jpg' download completed
+[2024-06-10 15:12:42][DEBUG]Image 'https://www.hepco-becker.de/media/36/79/4d/1645181747/5027599_00_01_TSB_Solid_links_shop.jpg' download completed
+[2024-06-10 15:12:42][INFO]Item TANKGUARD BLACK FOR APRILIA TUAREG 660 (2022-) crawling completed
+[2024-06-10 15:12:52][DEBUG]Image 'https://www.hepco-becker.de/media/d8/83/c4/1645180388/6607599_01_01_Minirack_shop.jpg' download completed
+[2024-06-10 15:12:53][DEBUG]Image 'https://www.hepco-becker.de/media/f0/87/5d/1639742983/minirack_gro__375f9b9.jpg' download completed
+[2024-06-10 15:12:53][INFO]Item MINIRACK SOFT LUGGAGE REAR RACK FOR APRILIA TUAREG 660 (2022-) crawling completed
+[2024-06-10 15:13:03][DEBUG]Image 'https://www.hepco-becker.de/media/66/17/ab/1645181395/7007599_00_01_LSG_rechts_shop.jpg' download completed
+[2024-06-10 15:13:04][DEBUG]Image 'https://www.hepco-becker.de/media/ae/0b/bf/1645181395/7007599_00_01_LSG_front_shop.jpg' download completed
+[2024-06-10 15:13:06][DEBUG]Image 'https://www.hepco-becker.de/media/5c/8c/87/1645181395/7007599_00_01_LSG_links_shop.jpg' download completed
+[2024-06-10 15:13:06][INFO]Item HEADLIGHT GRILL FOR APRILIA TUAREG 660 (2022-) crawling completed
+[2024-06-10 15:13:15][DEBUG]Image 'https://www.hepco-becker.de/media/97/da/2f/1645181061/42127599_00_01_GS_front_shop.jpg' download completed
+[2024-06-10 15:13:17][DEBUG]Image 'https://www.hepco-becker.de/media/7e/85/8b/1645181061/42127599_00_01_GS_rechts_shop.jpg' download completed
+[2024-06-10 15:13:18][DEBUG]Image 'https://www.hepco-becker.de/media/ca/b3/5c/1645181061/42127599_00_01_GS_links_shop.jpg' download completed
+[2024-06-10 15:13:18][INFO]Item HANDLE GUARD SET BLACK (LEFT+RIGHT SIDE) FOR APRILIA TUAREG 660 (2022-) crawling completed
+[2024-06-10 15:13:31][DEBUG]Image 'https://www.hepco-becker.de/media/9d/7c/c6/1661169847/5027599_00_09_TSB_Solid_rechts_shop.jpg' download completed
+[2024-06-10 15:13:31][INFO]Item TANKGUARD SILVER FOR APRILIA TUAREG 660 (2022-) crawling completed
+[2024-06-10 15:13:41][DEBUG]Image 'https://www.hepco-becker.de/media/b9/51/68/1645179950/6617599_01_01_Easyrack_shop.jpg' download completed
+[2024-06-10 15:13:43][DEBUG]Image 'https://www.hepco-becker.de/media/f8/68/f4/1639743296/easyrack_shop_187b0321.jpg' download completed
+[2024-06-10 15:13:43][INFO]Item EASYRACK TOPCASECARRIER BLACK FOR APRILIA TUAREG 660 (2022-) crawling completed
+[2024-06-10 15:13:53][DEBUG]Image 'https://www.hepco-becker.de/media/f0/ea/66/1645188523/6517599_00_01-01-40_XplorerCutoutSetBlack_01_shop.jpg' download completed
+[2024-06-10 15:13:54][DEBUG]Image 'https://www.hepco-becker.de/media/44/5c/05/1639743115/651994_00__22-01-40_xplorer_cutout-set_black_shop_104bf04.jpg' download completed
+[2024-06-10 15:13:56][DEBUG]Image 'https://www.hepco-becker.de/media/0d/ec/fd/1645188523/m_XplorerCutoutBlack_04_shop.jpg' download completed
+[2024-06-10 15:13:57][DEBUG]Image 'https://www.hepco-becker.de/media/66/0b/bd/1645188523/m_XplorerCutoutBlack_01_shop.jpg' download completed
+[2024-06-10 15:13:59][DEBUG]Image 'https://www.hepco-becker.de/media/38/a5/62/1645188523/Kombi_Cutout-Easyrack_shop.jpg' download completed
+[2024-06-10 15:14:01][DEBUG]Image 'https://www.hepco-becker.de/media/a5/aa/ce/1645188523/6517599_00_01-01-40_XplorerCutoutSetBlack_02_shop.jpg' download completed
+[2024-06-10 15:14:02][DEBUG]Image 'https://www.hepco-becker.de/media/48/8c/2a/1645188523/m_XplorerCutoutBlack_03_shop.jpg' download completed
+[2024-06-10 15:14:03][DEBUG]Image 'https://www.hepco-becker.de/media/5f/c1/94/1645188523/m_XplorerCutoutBlack_02_shop.jpg' download completed
+[2024-06-10 15:14:03][INFO]Item SIDECARRIER CUTOUT BLACK INCL. XPLORER SIDEBOXES BLACK FOR APRILIA TUAREG 660 (2022-) crawling completed
+[2024-06-10 15:14:19][DEBUG]Image 'https://www.hepco-becker.de/media/cd/d3/fa/1652183004/6517599_00_01_CutoutTraeger_shop.jpg' download completed
+[2024-06-10 15:14:19][INFO]Item SIDE CARRIER CUTOUT FOR XPLORER CUTOUT CASES 40/37 FOR APRILIA TUAREG 660 (2022-) crawling completed
+[2024-06-10 15:14:28][DEBUG]Image 'https://www.hepco-becker.de/media/ab/e2/e0/1645526594/6517599_00_01-00-40_XplorerCutoutSetSilver_01_shop.jpg' download completed
+[2024-06-10 15:14:30][DEBUG]Image 'https://www.hepco-becker.de/media/7a/97/8e/1645526594/6517599_00_01-00-40_XplorerCutoutSetSilver_02_shop.jpg' download completed
+[2024-06-10 15:14:32][DEBUG]Image 'https://www.hepco-becker.de/media/5b/43/fd/1645526594/m_XplorerCutoutSilver_01_shop.jpg' download completed
+[2024-06-10 15:14:33][DEBUG]Image 'https://www.hepco-becker.de/media/51/93/7e/1645526594/m_XplorerCutoutSilver_02_shop.jpg' download completed
+[2024-06-10 15:14:33][INFO]Item SIDE CARRIER CUTOUT BLACK INCL. XPLORER SILVER SIDEBOXES FOR APRILIA TUAREG (2022-) crawling completed
+[2024-06-10 15:14:47][DEBUG]Image 'https://www.hepco-becker.de/media/2e/93/92/1646120756/8007599_00_01_GPBVerbreiterung_shop.jpg' download completed
+[2024-06-10 15:14:47][INFO]Item MODELSPECIFIC REAR ENLARGEMENT FOR APRILIA TUAREG 660 (2022-) crawling completed
+[2024-06-10 15:15:01][DEBUG]Image 'https://www.hepco-becker.de/media/bd/f9/90/1651820803/5057599_00_01_HS_shop.jpg' download completed
+[2024-06-10 15:15:01][INFO]Item CENTER STAND FOR APRILIA TUAREG 660 (2022-) crawling completed
+[2024-06-10 15:15:12][DEBUG]Image 'https://www.hepco-becker.de/media/a3/e2/67/1645179724/6527599_01_01_Alurack_shop.jpg' download completed
+[2024-06-10 15:15:14][DEBUG]Image 'https://www.hepco-becker.de/media/31/b4/03/1639743101/alurack_5484578.jpg' download completed
+[2024-06-10 15:15:14][INFO]Item ALURACK TOP CASE CARRIER BLACK FOR APRILIA TUAREG 660 (2022-) crawling completed
+[2024-06-10 15:15:27][TRACE]Current model options : Tuono 1000 R / Factory (2009-2011)
+[2024-06-10 15:15:33][DEBUG]Found item : C-Bow sidecarrier for Aprilia Tuono 1000 R/Factory (2009-2011)
+[2024-06-10 15:15:33][DEBUG]Found item : Sportrack for Aprilia Tuono 1000 R / Factory (2009-2011)
+[2024-06-10 15:15:40][DEBUG]Image 'https://www.hepco-becker.de/media/26/aa/94/1639742974/c_bow_630780_2.jpg' download completed
+[2024-06-10 15:15:41][DEBUG]Image 'https://www.hepco-becker.de/media/94/c7/4a/1639743246/c_bow_630780_1511f6f.jpg' download completed
+[2024-06-10 15:15:41][INFO]Item C-BOW SIDECARRIER FOR APRILIA TUONO 1000 R/FACTORY (2009-2011) crawling completed
+[2024-06-10 15:15:50][DEBUG]Image 'https://www.hepco-becker.de/media/af/39/9d/1639743211/sportrack_670780_2.jpg' download completed
+[2024-06-10 15:15:51][DEBUG]Image 'https://www.hepco-becker.de/media/80/43/9b/1639742946/sportrack_670780_1514b32.jpg' download completed
+[2024-06-10 15:15:51][INFO]Item SPORTRACK FOR APRILIA TUONO 1000 R / FACTORY (2009-2011) crawling completed
+[2024-06-10 15:16:03][TRACE]Current model options : Tuono 125 (2016-)
+[2024-06-10 15:16:10][DEBUG]Found item : Tankring Lock-it incl. fastener for tankbag for Aprilia Tuono 125 (2016-)
+[2024-06-10 15:16:10][DEBUG]Found item : Tankring BASIC incl. fastener for tankbag for Aprilia Tuono 125 (2016-)
+[2024-06-10 15:16:20][DEBUG]Image 'https://www.hepco-becker.de/media/38/1a/a4/1639743196/506001-6_shop_1_1_1_1_1_1_2_1_1_1_1_1_1_1_1_2_1_1_1_1_2_1_2_1_14705b.jpg' download completed
+[2024-06-10 15:16:20][INFO]Item TANKRING LOCK-IT INCL. FASTENER FOR TANKBAG FOR APRILIA TUONO 125 (2016-) crawling completed
+[2024-06-10 15:16:34][DEBUG]Image 'https://www.hepco-becker.de/media/52/11/16/1683617819/516001-6_shop.jpg' download completed
+[2024-06-10 15:16:34][INFO]Item TANKRING BASIC INCL. FASTENER FOR TANKBAG FOR APRILIA TUONO 125 (2016-) crawling completed
+[2024-06-10 15:16:46][TRACE]Current model options : Tuono / RS 660 (2020-)
+[2024-06-10 15:16:52][DEBUG]Found item : C-Bow sidecarrier for Aprilia Tuono / RS 660 (2020-)
+[2024-06-10 15:16:52][DEBUG]Found item : Sportrack for Aprilia Tuono / RS 660 (2020-)
+[2024-06-10 15:16:52][DEBUG]Found item : Tankring Lock-it incl. fastener for tankbag for Aprilia Tuono / RS 660 (2020-)
+[2024-06-10 15:16:52][DEBUG]Found item : Tankring BASIC incl. fastener for tankbag for Aprilia Tuono / RS 660 (2020-)
+[2024-06-10 15:16:59][DEBUG]Image 'https://www.hepco-becker.de/media/e3/78/d5/1639743012/6307597_00_01_c-bow_shop677ab.jpg' download completed
+[2024-06-10 15:17:01][DEBUG]Image 'https://www.hepco-becker.de/media/98/66/72/1639743066/kombi_c-bow-sportrack_shop_293540a.jpg' download completed
+[2024-06-10 15:17:02][DEBUG]Image 'https://www.hepco-becker.de/media/9c/02/37/1639743268/6307597_00_01_c-bow_hinten_shopb904f.jpg' download completed
+[2024-06-10 15:17:04][DEBUG]Image 'https://www.hepco-becker.de/media/81/1e/85/1639742956/m_royster_black_shop_15b0a07.jpg' download completed
+[2024-06-10 15:17:05][DEBUG]Image 'https://www.hepco-becker.de/media/f1/70/99/1639743201/m_orbitsc_tourerm_shop_1d1fba.jpg' download completed
+[2024-06-10 15:17:07][DEBUG]Image 'https://www.hepco-becker.de/media/d8/84/4f/1639743030/m_street_shop_2_372cc0.jpg' download completed
+[2024-06-10 15:17:07][INFO]Item C-BOW SIDECARRIER FOR APRILIA TUONO / RS 660 (2020-) crawling completed
+[2024-06-10 15:17:16][DEBUG]Image 'https://www.hepco-becker.de/media/3c/f0/2b/1639743117/6707597_00_01_sportrack_shop3b96e.jpg' download completed
+[2024-06-10 15:17:17][DEBUG]Image 'https://www.hepco-becker.de/media/34/c6/2d/1639742917/kombi_c-bow-sportrack_shop_30332c3.jpg' download completed
+[2024-06-10 15:17:19][DEBUG]Image 'https://www.hepco-becker.de/media/b9/fe/79/1639742941/m_royster_black_shop_1676e13.jpg' download completed
+[2024-06-10 15:17:20][DEBUG]Image 'https://www.hepco-becker.de/media/46/69/f0/1639743156/m_street_shop_2_4fbc91.jpg' download completed
+[2024-06-10 15:17:20][INFO]Item SPORTRACK FOR APRILIA TUONO / RS 660 (2020-) crawling completed
+[2024-06-10 15:17:30][DEBUG]Image 'https://www.hepco-becker.de/media/16/38/1b/1639743138/5067597_00_01_tankring_shop785d0.jpg' download completed
+[2024-06-10 15:17:31][DEBUG]Image 'https://www.hepco-becker.de/media/04/93/c6/1639743037/m_street_shop_2_2933e7.jpg' download completed
+[2024-06-10 15:17:33][DEBUG]Image 'https://www.hepco-becker.de/media/c4/74/7c/1639743166/m_orbitsc_tourerm_shop99ab1.jpg' download completed
+[2024-06-10 15:17:33][INFO]Item TANKRING LOCK-IT INCL. FASTENER FOR TANKBAG FOR APRILIA TUONO / RS 660 (2020-) crawling completed
+[2024-06-10 15:17:46][DEBUG]Image 'https://www.hepco-becker.de/media/52/11/16/1683617819/516001-6_shop.jpg' download completed
+[2024-06-10 15:17:46][INFO]Item TANKRING BASIC INCL. FASTENER FOR TANKBAG FOR APRILIA TUONO / RS 660 (2020-) crawling completed
+[2024-06-10 15:17:58][TRACE]Current model options : Tuono V4 1100 Factory (2011-2020)
+[2024-06-10 15:18:04][DEBUG]Found item : Sportrack for APRILIA RSV4 (2011-2020) RSV4 RF/RR (2015-2020) TUONO V4 1100 FACTORY (2015-2020)
+[2024-06-10 15:18:12][DEBUG]Image 'https://www.hepco-becker.de/media/e8/1a/c3/1639743128/sportrack_670701_2.jpg' download completed
+[2024-06-10 15:18:13][DEBUG]Image 'https://www.hepco-becker.de/media/f5/d1/ae/1639742984/sportrack_670701_1586b1a.jpg' download completed
+[2024-06-10 15:18:13][INFO]Item SPORTRACK FOR APRILIA RSV4 (2011-2020) RSV4 RF/RR (2015-2020) TUONO V4 1100 FACTORY (2015-2020) crawling completed
+[2024-06-10 15:18:25][TRACE]Current model options : Tuono V4 1100 RR (2015-2020)
+[2024-06-10 15:18:31][DEBUG]Found item : C-Bow sidecarrier for Aprilia Tuono V4 R (2011-2014)/Tuono V4 1100 RR (2015-2020)
+[2024-06-10 15:18:31][DEBUG]Found item : Sportrack for Aprilia Tuono V4 R (2011-2014)/Tuono V4 1100 RR (2015-2020)
+[2024-06-10 15:18:31][DEBUG]Found item : Alurack top case carrier black for Aprilia Tuono V4 R (2011-2014)/Tuono V4 1100 RR (2015-2020)
+[2024-06-10 15:18:31][DEBUG]Found item : Easyrack topcasecarrier black for Aprilia Tuono V4 R (2011-2014)/Tuono V4 1100 RR (2015-2020)
+[2024-06-10 15:18:39][DEBUG]Image 'https://www.hepco-becker.de/media/4e/3a/52/1639743189/c_bow_6307501_2.jpg' download completed
+[2024-06-10 15:18:41][DEBUG]Image 'https://www.hepco-becker.de/media/29/44/4d/1639743100/c_bow_6307501_1591d46.jpg' download completed
+[2024-06-10 15:18:41][INFO]Item C-BOW SIDECARRIER FOR APRILIA TUONO V4 R (2011-2014)/TUONO V4 1100 RR (2015-2020) crawling completed
+[2024-06-10 15:18:50][DEBUG]Image 'https://www.hepco-becker.de/media/66/7f/3f/1639742947/bildschirmfoto_2015-09-09_um_11-27-22.png' download completed
+[2024-06-10 15:18:52][DEBUG]Image 'https://www.hepco-becker.de/media/f0/50/26/1639743281/6707501_5064f6.jpg' download completed
+[2024-06-10 15:18:52][INFO]Item SPORTRACK FOR APRILIA TUONO V4 R (2011-2014)/TUONO V4 1100 RR (2015-2020) crawling completed
+[2024-06-10 15:19:02][DEBUG]Image 'https://www.hepco-becker.de/media/67/2f/c1/1639743061/alurack_6507501_0101_3.jpg' download completed
+[2024-06-10 15:19:04][DEBUG]Image 'https://www.hepco-becker.de/media/4b/17/cc/1639743027/alurack_6507501_0101_15e520e.jpg' download completed
+[2024-06-10 15:19:04][INFO]Item ALURACK TOP CASE CARRIER BLACK FOR APRILIA TUONO V4 R (2011-2014)/TUONO V4 1100 RR (2015-2020) crawling completed
+[2024-06-10 15:19:19][DEBUG]Image 'https://www.hepco-becker.de/media/ab/25/11/1639743003/easyrack_shop_117a818e.jpg' download completed
+[2024-06-10 15:19:19][INFO]Item EASYRACK TOPCASECARRIER BLACK FOR APRILIA TUONO V4 R (2011-2014)/TUONO V4 1100 RR (2015-2020) crawling completed
+[2024-06-10 15:19:33][TRACE]Current model options : Tuono V4R (2011-2014)
+[2024-06-10 15:19:39][DEBUG]Found item : C-Bow sidecarrier for Aprilia Tuono V4 R (2011-2014)/Tuono V4 1100 RR (2015-2020)
+[2024-06-10 15:19:39][DEBUG]Found item : Sportrack for Aprilia Tuono V4 R (2011-2014)/Tuono V4 1100 RR (2015-2020)
+[2024-06-10 15:19:39][DEBUG]Found item : Alurack top case carrier black for Aprilia Tuono V4 R (2011-2014)/Tuono V4 1100 RR (2015-2020)
+[2024-06-10 15:19:39][DEBUG]Found item : Easyrack topcasecarrier black for Aprilia Tuono V4 R (2011-2014)/Tuono V4 1100 RR (2015-2020)
+[2024-06-10 15:19:45][DEBUG]Image 'https://www.hepco-becker.de/media/4e/3a/52/1639743189/c_bow_6307501_2.jpg' download completed
+[2024-06-10 15:19:47][DEBUG]Image 'https://www.hepco-becker.de/media/29/44/4d/1639743100/c_bow_6307501_1591d46.jpg' download completed
+[2024-06-10 15:19:47][INFO]Item C-BOW SIDECARRIER FOR APRILIA TUONO V4 R (2011-2014)/TUONO V4 1100 RR (2015-2020) crawling completed
+[2024-06-10 15:19:55][DEBUG]Image 'https://www.hepco-becker.de/media/66/7f/3f/1639742947/bildschirmfoto_2015-09-09_um_11-27-22.png' download completed
+[2024-06-10 15:19:56][DEBUG]Image 'https://www.hepco-becker.de/media/f0/50/26/1639743281/6707501_5064f6.jpg' download completed
+[2024-06-10 15:19:56][INFO]Item SPORTRACK FOR APRILIA TUONO V4 R (2011-2014)/TUONO V4 1100 RR (2015-2020) crawling completed
+[2024-06-10 15:20:07][DEBUG]Image 'https://www.hepco-becker.de/media/67/2f/c1/1639743061/alurack_6507501_0101_3.jpg' download completed
+[2024-06-10 15:20:08][DEBUG]Image 'https://www.hepco-becker.de/media/4b/17/cc/1639743027/alurack_6507501_0101_15e520e.jpg' download completed
+[2024-06-10 15:20:08][INFO]Item ALURACK TOP CASE CARRIER BLACK FOR APRILIA TUONO V4 R (2011-2014)/TUONO V4 1100 RR (2015-2020) crawling completed
+[2024-06-10 15:20:22][DEBUG]Image 'https://www.hepco-becker.de/media/ab/25/11/1639743003/easyrack_shop_117a818e.jpg' download completed
+[2024-06-10 15:20:22][INFO]Item EASYRACK TOPCASECARRIER BLACK FOR APRILIA TUONO V4 R (2011-2014)/TUONO V4 1100 RR (2015-2020) crawling completed
+[2024-06-10 15:20:35][TRACE]Current model options : Tuono V4 (2021-)
+[2024-06-10 15:20:41][DEBUG]Found item : C-Bow sidecarrier for Aprilia Tuono V4 (2021-)
+[2024-06-10 15:20:42][DEBUG]Found item : Sportrack for Aprilia Tuono V4 (2021-) (permanent mounted)
+[2024-06-10 15:20:42][DEBUG]Found item : Kickstand enlargement for Aprilia Tuono V4 (2021-)
+[2024-06-10 15:20:47][DEBUG]Image 'https://www.hepco-becker.de/media/79/fe/4c/1643878214/6307625_00_01_C-Bow_links_shop.jpg' download completed
+[2024-06-10 15:20:49][DEBUG]Image 'https://www.hepco-becker.de/media/7b/ef/ff/1643878214/6307625_00_01_C-Bow_rechts_shop.jpg' download completed
+[2024-06-10 15:20:50][DEBUG]Image 'https://www.hepco-becker.de/media/eb/67/12/1643878214/6307625_00_01_C-Bow_hinten_shop.jpg' download completed
+[2024-06-10 15:20:52][DEBUG]Image 'https://www.hepco-becker.de/media/74/0d/1d/1643878214/m_Royster_Black_04_shop.jpg' download completed
+[2024-06-10 15:20:53][DEBUG]Image 'https://www.hepco-becker.de/media/3b/36/69/1643878214/m_Royster_Black_01_shop.jpg' download completed
+[2024-06-10 15:20:54][DEBUG]Image 'https://www.hepco-becker.de/media/b4/d3/ae/1643878214/m_Royster_Yellow_01_shop.jpg' download completed
+[2024-06-10 15:20:56][DEBUG]Image 'https://www.hepco-becker.de/media/0b/27/06/1643878951/m_Royster_Black_05_shop.jpg' download completed
+[2024-06-10 15:20:56][INFO]Item C-BOW SIDECARRIER FOR APRILIA TUONO V4 (2021-) crawling completed
+[2024-06-10 15:21:06][DEBUG]Image 'https://www.hepco-becker.de/media/c5/20/1c/1643878949/6707625_00_01_Sportrack_shop.jpg' download completed
+[2024-06-10 15:21:08][DEBUG]Image 'https://www.hepco-becker.de/media/af/7a/27/1643878949/m_Street_Hecktasche_01_shop.jpg' download completed
+[2024-06-10 15:21:09][DEBUG]Image 'https://www.hepco-becker.de/media/02/31/51/1643878949/m_Royster_Black_02_shop.jpg' download completed
+[2024-06-10 15:21:11][DEBUG]Image 'https://www.hepco-becker.de/media/15/2b/fe/1643878949/Kombi_C-Bow-Sportrack_shop.jpg' download completed
+[2024-06-10 15:21:12][DEBUG]Image 'https://www.hepco-becker.de/media/a6/20/26/1643878949/m_Royster_Black_03_shop.jpg' download completed
+[2024-06-10 15:21:14][DEBUG]Image 'https://www.hepco-becker.de/media/0b/27/06/1643878951/m_Royster_Black_05_shop.jpg' download completed
+[2024-06-10 15:21:14][INFO]Item SPORTRACK FOR APRILIA TUONO V4 (2021-) (PERMANENT MOUNTED) crawling completed
+[2024-06-10 15:21:27][DEBUG]Image 'https://www.hepco-becker.de/media/be/7b/0d/1639743260/42117626_00_91_seitenstaenderplatte_shop_1e4589.jpg' download completed
+[2024-06-10 15:21:27][INFO]Item KICKSTAND ENLARGEMENT FOR APRILIA TUONO V4 (2021-) crawling completed
+[2024-06-10 15:21:39][TRACE]Current model options : Tuono V4 Factory (2021-)
+[2024-06-10 15:21:45][DEBUG]Found item : Sportrack for Aprilia Tuono V4 Factory / RSV4 / RSV4 Factory (2021-) (permanent mounted)
+[2024-06-10 15:21:45][DEBUG]Found item : C-Bow sidecarrier for Aprilia Tuono V4 Factory/RSV 4/RSV 4 Factory (2021-)
+[2024-06-10 15:21:45][DEBUG]Found item : Kickstand enlargement for Aprilia Tuono V4 Factory (2021-)
+[2024-06-10 15:21:52][DEBUG]Image 'https://www.hepco-becker.de/media/af/4c/8c/1642068994/6707626_00_01_Sportrack_01_shop.jpg' download completed
+[2024-06-10 15:21:53][DEBUG]Image 'https://www.hepco-becker.de/media/e7/f4/73/1642068994/6707626_00_01_Sportrack_02_shop.jpg' download completed
+[2024-06-10 15:21:55][DEBUG]Image 'https://www.hepco-becker.de/media/5d/6c/07/1639742954/m_rearbagblack_sportrack_shopdcc6d.jpg' download completed
+[2024-06-10 15:21:56][DEBUG]Image 'https://www.hepco-becker.de/media/b6/71/a0/1639743107/m_rearbagyellow_sportrack_shopb0fac.jpg' download completed
+[2024-06-10 15:21:58][DEBUG]Image 'https://www.hepco-becker.de/media/dd/2e/f2/1639742976/m_roysterblack_rearbag_sportrack_shop7bde9.jpg' download completed
+[2024-06-10 15:21:59][DEBUG]Image 'https://www.hepco-becker.de/media/5c/58/48/1639743183/m_roysterblack_sport_sportrack_shopa9f9d.jpg' download completed
+[2024-06-10 15:22:00][DEBUG]Image 'https://www.hepco-becker.de/media/b8/c9/1d/1639743056/m_royster_sport_sportrack_shop8cc72.jpg' download completed
+[2024-06-10 15:22:02][DEBUG]Image 'https://www.hepco-becker.de/media/34/93/36/1639743055/m_roysteryellow_rearbag_sportrack_shop6699f.jpg' download completed
+[2024-06-10 15:22:03][DEBUG]Image 'https://www.hepco-becker.de/media/a4/a8/d1/1639743260/m_street_hecktasche_shop_1e7bb2.jpg' download completed
+[2024-06-10 15:22:03][INFO]Item SPORTRACK FOR APRILIA TUONO V4 FACTORY / RSV4 / RSV4 FACTORY (2021-) (PERMANENT MOUNTED) crawling completed
+[2024-06-10 15:22:11][DEBUG]Image 'https://www.hepco-becker.de/media/de/31/c7/1639743188/6307626_00_01_c-bow_shop1c763.jpg' download completed
+[2024-06-10 15:22:12][DEBUG]Image 'https://www.hepco-becker.de/media/1e/3c/14/1639743244/6307626_00_01_c-bow_hinten_shop17ccd.jpg' download completed
+[2024-06-10 15:22:14][DEBUG]Image 'https://www.hepco-becker.de/media/41/32/ff/1639742983/m_roysterblack_shop_19bb559.jpg' download completed
+[2024-06-10 15:22:15][DEBUG]Image 'https://www.hepco-becker.de/media/83/67/70/1639743081/m_roysteryellow_shop_3eb992.jpg' download completed
+[2024-06-10 15:22:15][INFO]Item C-BOW SIDECARRIER FOR APRILIA TUONO V4 FACTORY/RSV 4/RSV 4 FACTORY (2021-) crawling completed
+[2024-06-10 15:22:29][DEBUG]Image 'https://www.hepco-becker.de/media/d2/7e/db/1639743213/42117626_00_91_seitenstaenderplatte_shopb3002.jpg' download completed
+[2024-06-10 15:22:29][INFO]Item KICKSTAND ENLARGEMENT FOR APRILIA TUONO V4 FACTORY (2021-) crawling completed
+[2024-06-10 15:22:40][TRACE]Current make options : BENELLI
+[2024-06-10 15:22:40][TRACE]Model option cnt: 4
+[2024-06-10 15:22:40][TRACE]Current model options : BN 600 GT (2014-)
+[2024-06-10 15:23:00][TRACE]Current model options : Leoncino 800 (2022-)
+[2024-06-10 15:23:06][DEBUG]Found item : C-Bow sidecarrier black for Benelli Leoncino 800 (2022-)
+[2024-06-10 15:23:06][DEBUG]Found item : Tankring Lock-it incl. fastener for tankbag for Benelli Leoncino 800 (2022-)
+[2024-06-10 15:23:06][DEBUG]Found item : Tankring BASIC incl. fastener for tankbag for Benelli Leoncino 800 (2022-)
+[2024-06-10 15:23:13][DEBUG]Image 'https://www.hepco-becker.de/media/b8/04/56/1649141633/6307645_00_01_C-Bow_links_shop.jpg' download completed
+[2024-06-10 15:23:15][DEBUG]Image 'https://www.hepco-becker.de/media/ea/33/9e/1649141635/6307645_00_01_C-Bow_rechts_shop.jpg' download completed
+[2024-06-10 15:23:17][DEBUG]Image 'https://www.hepco-becker.de/media/73/8e/7f/1649141637/6307645_00_01_C-Bow_hinten_shop.jpg' download completed
+[2024-06-10 15:23:19][DEBUG]Image 'https://www.hepco-becker.de/media/74/84/6d/1649141663/m_Xtravel_01_shop_%285%29.jpg' download completed
+[2024-06-10 15:23:21][DEBUG]Image 'https://www.hepco-becker.de/media/1f/05/0a/1672652565/m_LegacyL_shop.jpg' download completed
+[2024-06-10 15:23:23][DEBUG]Image 'https://www.hepco-becker.de/media/7c/e8/c4/1672652565/m_RuggedBlack_shop.jpg' download completed
+[2024-06-10 15:23:25][DEBUG]Image 'https://www.hepco-becker.de/media/96/5f/49/1672652572/m_Xtravel_01_shop_%2813%29.jpg' download completed
+[2024-06-10 15:23:25][INFO]Item C-BOW SIDECARRIER BLACK FOR BENELLI LEONCINO 800 (2022-) crawling completed
+[2024-06-10 15:23:34][DEBUG]Image 'https://www.hepco-becker.de/media/93/4e/7c/1649142390/5067645_00_01_Tankring_shop.jpg' download completed
+[2024-06-10 15:23:36][DEBUG]Image 'https://www.hepco-becker.de/media/1f/5e/2f/1649142398/m_Xtravel_01_shop_%286%29.jpg' download completed
+[2024-06-10 15:23:36][INFO]Item TANKRING LOCK-IT INCL. FASTENER FOR TANKBAG FOR BENELLI LEONCINO 800 (2022-) crawling completed
+[2024-06-10 15:23:50][DEBUG]Image 'https://www.hepco-becker.de/media/83/45/3e/1683802919/516006-5_shop.jpg' download completed
+[2024-06-10 15:23:50][INFO]Item TANKRING BASIC INCL. FASTENER FOR TANKBAG FOR BENELLI LEONCINO 800 (2022-) crawling completed
+[2024-06-10 15:24:01][TRACE]Current model options : TRK 502 (2017-)
+[2024-06-10 15:24:08][DEBUG]Found item : Sidecarrier permanent mounted black for Benelli TRK 502 (2017-)
+[2024-06-10 15:24:08][DEBUG]Found item : Easyrack topcasecarrier black for Benelli TRK 502 (2017-)
+[2024-06-10 15:24:08][DEBUG]Found item : Alurack top case carrier black for Benelli TRK 502 (2017-)
+[2024-06-10 15:24:08][DEBUG]Found item : Minirack soft luggage rear rack for Benelli TRK 502 (2017-)
+[2024-06-10 15:24:20][DEBUG]Image 'https://www.hepco-becker.de/media/10/1c/a1/1639743238/6537594_00_01_kt_shopdb79a.jpg' download completed
+[2024-06-10 15:24:20][INFO]Item SIDECARRIER PERMANENT MOUNTED BLACK FOR BENELLI TRK 502 (2017-) crawling completed
+[2024-06-10 15:24:32][DEBUG]Image 'https://www.hepco-becker.de/media/f2/e8/6b/1639743174/6617594_01_01_easyrack_shopcaa5f.jpg' download completed
+[2024-06-10 15:24:33][DEBUG]Image 'https://www.hepco-becker.de/media/86/46/g0/1639742960/easyrack_shop_109_1_187186.jpg' download completed
+[2024-06-10 15:24:33][INFO]Item EASYRACK TOPCASECARRIER BLACK FOR BENELLI TRK 502 (2017-) crawling completed
+[2024-06-10 15:24:44][DEBUG]Image 'https://www.hepco-becker.de/media/61/89/f1/1639742967/6527595_01_01_alurack_shop_105f64.jpg' download completed
+[2024-06-10 15:24:45][DEBUG]Image 'https://www.hepco-becker.de/media/c7/3b/41/1639743164/alurack_46_1b37d1.jpg' download completed
+[2024-06-10 15:24:45][INFO]Item ALURACK TOP CASE CARRIER BLACK FOR BENELLI TRK 502 (2017-) crawling completed
+[2024-06-10 15:25:01][DEBUG]Image 'https://www.hepco-becker.de/media/9c/00/66/1639743073/6607594_01_01_minirack_shop395c8.jpg' download completed
+[2024-06-10 15:25:01][INFO]Item MINIRACK SOFT LUGGAGE REAR RACK FOR BENELLI TRK 502 (2017-) crawling completed
+[2024-06-10 15:25:14][TRACE]Current model options : TRK 502 X (2018-)
+[2024-06-10 15:25:20][DEBUG]Found item : Sidecarrier permanent mounted black for Benelli TRK 502 X (2018-)
+[2024-06-10 15:25:20][DEBUG]Found item : Alurack top case carrier black for Benelli TRK 502 X (2018-)
+[2024-06-10 15:25:20][DEBUG]Found item : Easyrack topcasecarrier black for Benelli TRK 502 X (2018-)
+[2024-06-10 15:25:20][DEBUG]Found item : Minirack soft luggage rear rack for Benelli TRK 502 X (2018-)
+[2024-06-10 15:25:33][DEBUG]Image 'https://www.hepco-becker.de/media/84/g0/54/1639742944/6537595_00_01_kt_shopfd8b1.jpg' download completed
+[2024-06-10 15:25:33][INFO]Item SIDECARRIER PERMANENT MOUNTED BLACK FOR BENELLI TRK 502 X (2018-) crawling completed
+[2024-06-10 15:25:44][DEBUG]Image 'https://www.hepco-becker.de/media/0c/fe/84/1639743142/6527595_01_01_alurack_shop_1_1f96ca.jpg' download completed
+[2024-06-10 15:25:45][DEBUG]Image 'https://www.hepco-becker.de/media/3b/15/06/1639743030/alurack_46_1_12a010.jpg' download completed
+[2024-06-10 15:25:45][INFO]Item ALURACK TOP CASE CARRIER BLACK FOR BENELLI TRK 502 X (2018-) crawling completed
+[2024-06-10 15:25:55][DEBUG]Image 'https://www.hepco-becker.de/media/b5/c3/22/1639743050/6617594_01_01_easyrack_shop_127964.jpg' download completed
+[2024-06-10 15:25:57][DEBUG]Image 'https://www.hepco-becker.de/media/39/07/e9/1639743055/easyrack_shop_109_1_1_160f0d.jpg' download completed
+[2024-06-10 15:25:57][INFO]Item EASYRACK TOPCASECARRIER BLACK FOR BENELLI TRK 502 X (2018-) crawling completed
+[2024-06-10 15:26:11][DEBUG]Image 'https://www.hepco-becker.de/media/d8/43/21/1639743170/6607594_01_01_minirack_shop_193da6.jpg' download completed
+[2024-06-10 15:26:11][INFO]Item MINIRACK SOFT LUGGAGE REAR RACK FOR BENELLI TRK 502 X (2018-) crawling completed
+[2024-06-10 15:26:24][TRACE]Current make options : BMW
+[2024-06-10 15:26:27][TRACE]Model option cnt: 128
+[2024-06-10 15:26:27][TRACE]Current model options : C 400 GT (2019-)
+[2024-06-10 15:26:33][DEBUG]Found item : Easyrack topcasecarrier black for BMW C 400 GT (2019-)
+[2024-06-10 15:26:33][DEBUG]Found item : Alurack top case carrier black for BMW C 400 GT (2019-)
+[2024-06-10 15:26:33][DEBUG]Found item : Minirack soft luggage rear rack for BMW C 400 GT (2019-)
+[2024-06-10 15:26:41][DEBUG]Image 'https://www.hepco-becker.de/media/b2/44/20/1639743248/6616516_01_01_easyrack_shopac767.jpg' download completed
+[2024-06-10 15:26:43][DEBUG]Image 'https://www.hepco-becker.de/media/48/da/1f/1639743059/easyrack_shop_109_1_1_1_12f16c.jpg' download completed
+[2024-06-10 15:26:45][DEBUG]Image 'https://www.hepco-becker.de/media/41/0d/20/1639743291/m_tc42recon_shop_13eb05.jpg' download completed
+[2024-06-10 15:26:46][DEBUG]Image 'https://www.hepco-becker.de/media/d3/5b/f6/1639743054/m_journeytc42_white_shop_33e867.jpg' download completed
+[2024-06-10 15:26:46][INFO]Item EASYRACK TOPCASECARRIER BLACK FOR BMW C 400 GT (2019-) crawling completed
+[2024-06-10 15:26:56][DEBUG]Image 'https://www.hepco-becker.de/media/b2/ae/g0/1639743154/6526516_01_01_alurack_shopa64a6.jpg' download completed
+[2024-06-10 15:26:58][DEBUG]Image 'https://www.hepco-becker.de/media/35/55/10/1639743052/alurack_46_1_1_1f256a.jpg' download completed
+[2024-06-10 15:26:59][DEBUG]Image 'https://www.hepco-becker.de/media/94/5e/10/1639743235/m_journeytc42_white_shop_2b5673.jpg' download completed
+[2024-06-10 15:27:01][DEBUG]Image 'https://www.hepco-becker.de/media/85/00/26/1639743280/m_tc42recon_shopfdc56.jpg' download completed
+[2024-06-10 15:27:01][INFO]Item ALURACK TOP CASE CARRIER BLACK FOR BMW C 400 GT (2019-) crawling completed
+[2024-06-10 15:27:16][DEBUG]Image 'https://www.hepco-becker.de/media/f7/0e/47/1639743118/6606516_01_01_minirack_shopfccdc.jpg' download completed
+[2024-06-10 15:27:16][INFO]Item MINIRACK SOFT LUGGAGE REAR RACK FOR BMW C 400 GT (2019-) crawling completed
+[2024-06-10 15:27:29][TRACE]Current model options : C 600 Sport (2012-)
+[2024-06-10 15:27:35][DEBUG]Found item : Easyrack topcasecarrier black for BMW C 600 (2012-)/650 Sport ( 2016-)
+[2024-06-10 15:27:35][DEBUG]Found item : Alurack top case carrier black for BMW C 600 (2012-)/650 Sport ( 2016-)
+[2024-06-10 15:27:47][DEBUG]Image 'https://www.hepco-becker.de/media/3f/7a/e0/1639743238/easyrack_shop_983fd81.jpg' download completed
+[2024-06-10 15:27:47][INFO]Item EASYRACK TOPCASECARRIER BLACK FOR BMW C 600 (2012-)/650 SPORT ( 2016-) crawling completed
+[2024-06-10 15:28:02][DEBUG]Image 'https://www.hepco-becker.de/media/c5/f1/e9/1639742998/alurack_650662_0101_2.jpg' download completed
+[2024-06-10 15:28:02][INFO]Item ALURACK TOP CASE CARRIER BLACK FOR BMW C 600 (2012-)/650 SPORT ( 2016-) crawling completed
+[2024-06-10 15:28:16][TRACE]Current model options : C 650 Sport (2016-)
+[2024-06-10 15:28:22][DEBUG]Found item : Easyrack topcasecarrier black for BMW C 600 (2012-)/650 Sport ( 2016-)
+[2024-06-10 15:28:22][DEBUG]Found item : Alurack top case carrier black for BMW C 600 (2012-)/650 Sport ( 2016-)
+[2024-06-10 15:28:33][DEBUG]Image 'https://www.hepco-becker.de/media/3f/7a/e0/1639743238/easyrack_shop_983fd81.jpg' download completed
+[2024-06-10 15:28:33][INFO]Item EASYRACK TOPCASECARRIER BLACK FOR BMW C 600 (2012-)/650 SPORT ( 2016-) crawling completed
+[2024-06-10 15:28:47][DEBUG]Image 'https://www.hepco-becker.de/media/c5/f1/e9/1639742998/alurack_650662_0101_2.jpg' download completed
+[2024-06-10 15:28:47][INFO]Item ALURACK TOP CASE CARRIER BLACK FOR BMW C 600 (2012-)/650 SPORT ( 2016-) crawling completed
+[2024-06-10 15:29:00][TRACE]Current model options : C 650 GT (2012-)
+[2024-06-10 15:29:06][DEBUG]Found item : Easyrack topcasecarrier black for BMW C 650 GT (2012-)
+[2024-06-10 15:29:06][DEBUG]Found item : Alurack top case carrier black for BMW C 650 GT (2012-)
+[2024-06-10 15:29:14][DEBUG]Image 'https://www.hepco-becker.de/media/db/f9/45/1639743027/easyrack_107.jpg' download completed
+[2024-06-10 15:29:16][DEBUG]Image 'https://www.hepco-becker.de/media/32/92/22/1639743233/easyrack_shop_99d1b07.jpg' download completed
+[2024-06-10 15:29:16][INFO]Item EASYRACK TOPCASECARRIER BLACK FOR BMW C 650 GT (2012-) crawling completed
+[2024-06-10 15:29:25][DEBUG]Image 'https://www.hepco-becker.de/media/79/19/b2/1639743076/alurack_650663_0101_2.jpg' download completed
+[2024-06-10 15:29:26][DEBUG]Image 'https://www.hepco-becker.de/media/76/7b/7e/1639743043/alurack_650663_0101_8406df.jpg' download completed
+[2024-06-10 15:29:26][INFO]Item ALURACK TOP CASE CARRIER BLACK FOR BMW C 650 GT (2012-) crawling completed
+[2024-06-10 15:29:39][TRACE]Current model options : F 650 (1993-1996)
+[2024-06-10 15:29:45][DEBUG]Found item : Topcase carrier tube-type black for BMW F 650 (1993-1996)/F 650/F 650 ST (1997-2000)
+[2024-06-10 15:29:46][DEBUG]Found item : Sidecarrier permanent mounted black for BMW F 650 (1993-1996)/F 650/F 650 ST (1997-2000)
+[2024-06-10 15:29:46][DEBUG]Found item : Engine protection bar black for BMW F 650 (1993-1996)
+[2024-06-10 15:29:46][DEBUG]Found item : Tankring Lock-it incl. fastener for tankbag for BMW F 650 (1993-1996)
+[2024-06-10 15:29:46][DEBUG]Found item : Tankring BASIC incl. fastener for tankbag for BMW F 650 (1993-1996)
+[2024-06-10 15:29:57][DEBUG]Image 'https://www.hepco-becker.de/media/5d/54/b8/1639742978/650618_01_01_bruecke_29.jpg' download completed
+[2024-06-10 15:29:57][INFO]Item TOPCASE CARRIER TUBE-TYPE BLACK FOR BMW F 650 (1993-1996)/F 650/F 650 ST (1997-2000) crawling completed
+[2024-06-10 15:30:12][DEBUG]Image 'https://www.hepco-becker.de/media/74/f9/ea/1639742959/650618_00_01_traeger_26.jpg' download completed
+[2024-06-10 15:30:12][INFO]Item SIDECARRIER PERMANENT MOUNTED BLACK FOR BMW F 650 (1993-1996)/F 650/F 650 ST (1997-2000) crawling completed
+[2024-06-10 15:30:25][DEBUG]Image 'https://www.hepco-becker.de/media/2d/78/6f/1639743053/502906_00_01_buegel_13.jpg' download completed
+[2024-06-10 15:30:25][INFO]Item ENGINE PROTECTION BAR BLACK FOR BMW F 650 (1993-1996) crawling completed
+[2024-06-10 15:30:35][DEBUG]Image 'https://www.hepco-becker.de/media/a9/38/cf/1639743132/506002-5_shop_29af997.jpg' download completed
+[2024-06-10 15:30:36][DEBUG]Image 'https://www.hepco-becker.de/media/61/ea/f6/1639742989/bildschirmfoto_2015-07-27_um_16-46-11_7.png' download completed
+[2024-06-10 15:30:36][INFO]Item TANKRING LOCK-IT INCL. FASTENER FOR TANKBAG FOR BMW F 650 (1993-1996) crawling completed
+[2024-06-10 15:30:50][DEBUG]Image 'https://www.hepco-becker.de/media/a3/94/1f/1683638663/516002-5_shop.jpg' download completed
+[2024-06-10 15:30:50][INFO]Item TANKRING BASIC INCL. FASTENER FOR TANKBAG FOR BMW F 650 (1993-1996) crawling completed
+[2024-06-10 15:31:01][TRACE]Current model options : F 650 (1997-2000)
+[2024-06-10 15:31:08][DEBUG]Found item : Topcase carrier tube-type black for BMW F 650 (1993-1996)/F 650/F 650 ST (1997-2000)
+[2024-06-10 15:31:08][DEBUG]Found item : Engine protection bar black for BMW F 650/ST (1997-2000)
+[2024-06-10 15:31:08][DEBUG]Found item : Sidecarrier permanent mounted black for BMW F 650 (1993-1996)/F 650/F 650 ST (1997-2000)
+[2024-06-10 15:31:19][DEBUG]Image 'https://www.hepco-becker.de/media/5d/54/b8/1639742978/650618_01_01_bruecke_29.jpg' download completed
+[2024-06-10 15:31:19][INFO]Item TOPCASE CARRIER TUBE-TYPE BLACK FOR BMW F 650 (1993-1996)/F 650/F 650 ST (1997-2000) crawling completed
+[2024-06-10 15:31:32][DEBUG]Image 'https://www.hepco-becker.de/media/8a/04/1d/1639742963/502906_00_01_buegel_29.jpg' download completed
+[2024-06-10 15:31:32][INFO]Item ENGINE PROTECTION BAR BLACK FOR BMW F 650/ST (1997-2000) crawling completed
+[2024-06-10 15:31:47][DEBUG]Image 'https://www.hepco-becker.de/media/74/f9/ea/1639742959/650618_00_01_traeger_26.jpg' download completed
+[2024-06-10 15:31:47][INFO]Item SIDECARRIER PERMANENT MOUNTED BLACK FOR BMW F 650 (1993-1996)/F 650/F 650 ST (1997-2000) crawling completed
+[2024-06-10 15:32:01][TRACE]Current model options : F 650 ST (1997-2000)
+[2024-06-10 15:32:07][DEBUG]Found item : Topcase carrier tube-type black for BMW F 650 (1993-1996)/F 650/F 650 ST (1997-2000)
+[2024-06-10 15:32:07][DEBUG]Found item : Engine protection bar black for BMW F 650/ST (1997-2000)
+[2024-06-10 15:32:07][DEBUG]Found item : Sidecarrier permanent mounted black for BMW F 650 (1993-1996)/F 650/F 650 ST (1997-2000)
+[2024-06-10 15:32:07][DEBUG]Found item : Tankring Lock-it incl. fastener for tankbag for BMW F 650/ST (1997-2000)
+[2024-06-10 15:32:07][DEBUG]Found item : Tankring BASIC incl. fastener for tankbag for BMW F 650/ST (1997-2000)
+[2024-06-10 15:32:18][DEBUG]Image 'https://www.hepco-becker.de/media/5d/54/b8/1639742978/650618_01_01_bruecke_29.jpg' download completed
+[2024-06-10 15:32:18][INFO]Item TOPCASE CARRIER TUBE-TYPE BLACK FOR BMW F 650 (1993-1996)/F 650/F 650 ST (1997-2000) crawling completed
+[2024-06-10 15:32:30][DEBUG]Image 'https://www.hepco-becker.de/media/8a/04/1d/1639742963/502906_00_01_buegel_29.jpg' download completed
+[2024-06-10 15:32:30][INFO]Item ENGINE PROTECTION BAR BLACK FOR BMW F 650/ST (1997-2000) crawling completed
+[2024-06-10 15:32:44][DEBUG]Image 'https://www.hepco-becker.de/media/74/f9/ea/1639742959/650618_00_01_traeger_26.jpg' download completed
+[2024-06-10 15:32:44][INFO]Item SIDECARRIER PERMANENT MOUNTED BLACK FOR BMW F 650 (1993-1996)/F 650/F 650 ST (1997-2000) crawling completed
+[2024-06-10 15:32:57][DEBUG]Image 'https://www.hepco-becker.de/media/e3/f3/5e/1639743156/506001-6_shop_1_1_1_1_1_1_2_1_1_1_1_1_1_1_1_2_1_1_1_1_2_1_2_1_1_1_1_1_1_1_1_1_1_1_166980.jpg' download completed
+[2024-06-10 15:32:57][INFO]Item TANKRING LOCK-IT INCL. FASTENER FOR TANKBAG FOR BMW F 650/ST (1997-2000) crawling completed
+[2024-06-10 15:33:10][DEBUG]Image 'https://www.hepco-becker.de/media/52/11/16/1683617819/516001-6_shop.jpg' download completed
+[2024-06-10 15:33:10][INFO]Item TANKRING BASIC INCL. FASTENER FOR TANKBAG FOR BMW F 650/ST (1997-2000) crawling completed
+[2024-06-10 15:33:21][TRACE]Current model options : F 650 CS (2002-2005)
+[2024-06-10 15:33:27][DEBUG]Found item : Sidecarrier permanent mounted silver for BMW F 650 CS (2002-2005)
+[2024-06-10 15:33:27][DEBUG]Found item : Engine protection bar silver for BMW F 650 CS (2002-2005)
+[2024-06-10 15:33:27][DEBUG]Found item : Topcase carrier tube-type silver for BMW F 650 CS (2002-2005)
+[2024-06-10 15:33:28][DEBUG]Found item : Center Stand for BMW F 650 CS (2002-2005)
+[2024-06-10 15:33:38][DEBUG]Image 'https://www.hepco-becker.de/media/33/c1/54/1639743179/650633_0009_traeger_56d742.jpg' download completed
+[2024-06-10 15:33:38][INFO]Item SIDECARRIER PERMANENT MOUNTED SILVER FOR BMW F 650 CS (2002-2005) crawling completed
+[2024-06-10 15:33:49][DEBUG]Image 'https://www.hepco-becker.de/media/92/3c/44/1639743131/motorschutzbuegel_502914_0009_2.jpg' download completed
+[2024-06-10 15:33:50][DEBUG]Image 'https://www.hepco-becker.de/media/0e/1f/f9/1639743088/motorschutzbuegel_502914_0009_857b7c.jpg' download completed
+[2024-06-10 15:33:50][INFO]Item ENGINE PROTECTION BAR SILVER FOR BMW F 650 CS (2002-2005) crawling completed
+[2024-06-10 15:34:01][DEBUG]Image 'https://www.hepco-becker.de/media/00/1c/e3/1639743045/gepaeckbruecke_650633_0109_2.jpg' download completed
+[2024-06-10 15:34:03][DEBUG]Image 'https://www.hepco-becker.de/media/dc/84/0e/1639743041/gepaeckbruecke_650633_0109_828ba6.jpg' download completed
+[2024-06-10 15:34:03][INFO]Item TOPCASE CARRIER TUBE-TYPE SILVER FOR BMW F 650 CS (2002-2005) crawling completed
+[2024-06-10 15:34:16][DEBUG]Image 'https://www.hepco-becker.de/media/04/c3/f7/1639743052/505633_0001_hs.jpg' download completed
+[2024-06-10 15:34:16][INFO]Item CENTER STAND FOR BMW F 650 CS (2002-2005) crawling completed
+[2024-06-10 15:34:29][TRACE]Current model options : F 650 GS / G 650 GS (2001-2003)
+[2024-06-10 15:34:35][DEBUG]Found item : Topcase carrier tube-type silver for BMW F 650 GS Dakar (2000-2003)/F 650 GS/G 650 GS (2004-)
+[2024-06-10 15:34:35][DEBUG]Found item : Engine protection bar silver for BMW F 650 GS Dakar (2000-2003)/F 650 GS/G 650 GS (2004-)
+[2024-06-10 15:34:35][DEBUG]Found item : Sidecarrier permanent mounted silver for BMW F 650 GS Dakar (2000-2003)/F 650 GS/G 650 GS
+[2024-06-10 15:34:35][DEBUG]Found item : C-Bow sidecarrier for BMW G 650 GS (2011-2016)/Sertao (2012-2016)/F 650 GS/Dakar (-2007)
+[2024-06-10 15:34:35][DEBUG]Found item : Center Stand for BMW F 650 GS (2001-2007)
+[2024-06-10 15:34:42][DEBUG]Image 'https://www.hepco-becker.de/media/d0/ff/c5/1639743043/gepaeckbruecke_650628_0101_2.jpg' download completed
+[2024-06-10 15:34:43][DEBUG]Image 'https://www.hepco-becker.de/media/6c/3c/ca/1639743135/gepaeckbruecke_650628_0101_876daf.jpg' download completed
+[2024-06-10 15:34:43][INFO]Item TOPCASE CARRIER TUBE-TYPE SILVER FOR BMW F 650 GS DAKAR (2000-2003)/F 650 GS/G 650 GS (2004-) crawling completed
+[2024-06-10 15:34:56][DEBUG]Image 'https://www.hepco-becker.de/media/3c/f1/67/1639743118/motorschutzbuegel_502912_0009_5.jpg' download completed
+[2024-06-10 15:34:56][INFO]Item ENGINE PROTECTION BAR SILVER FOR BMW F 650 GS DAKAR (2000-2003)/F 650 GS/G 650 GS (2004-) crawling completed
+[2024-06-10 15:35:11][DEBUG]Image 'https://www.hepco-becker.de/media/f6/ed/d7/1639742993/koffertraeger_650628_0009_11.jpg' download completed
+[2024-06-10 15:35:11][INFO]Item SIDECARRIER PERMANENT MOUNTED SILVER FOR BMW F 650 GS DAKAR (2000-2003)/F 650 GS/G 650 GS crawling completed
+[2024-06-10 15:35:24][DEBUG]Image 'https://www.hepco-becker.de/media/3f/ee/11/1639742970/c-bow_630660_1_1.jpg' download completed
+[2024-06-10 15:35:25][DEBUG]Image 'https://www.hepco-becker.de/media/1b/98/ca/1639743213/c-bow_630660_1_843af6.jpg' download completed
+[2024-06-10 15:35:25][INFO]Item C-BOW SIDECARRIER FOR BMW G 650 GS (2011-2016)/SERTAO (2012-2016)/F 650 GS/DAKAR (-2007) crawling completed
+[2024-06-10 15:35:39][DEBUG]Image 'https://www.hepco-becker.de/media/e0/bc/da/1639743225/505626_00_01_hauptstaender_849f77.jpg' download completed
+[2024-06-10 15:35:39][INFO]Item CENTER STAND FOR BMW F 650 GS (2001-2007) crawling completed
+[2024-06-10 15:35:51][TRACE]Current model options : F 650 GS / G 650 GS (2004-2007)
+[2024-06-10 15:35:57][DEBUG]Found item : Headlight grill for BMW F 650 GS/G 650 GS (2004-2007)
+[2024-06-10 15:35:57][DEBUG]Found item : Engine protection bar silver for BMW F 650 GS Dakar (2000-2003)/F 650 GS/G 650 GS (2004-)
+[2024-06-10 15:35:57][DEBUG]Found item : Modelspecific rear enlargement for BMW F 650 GS/G 650 GS (2004-2007)
+[2024-06-10 15:35:58][DEBUG]Found item : Sidecarrier permanent mounted silver for BMW F 650 GS Dakar (2004-2007)/F 650 GS/G 650 GS (single cylinder)
+[2024-06-10 15:35:58][DEBUG]Found item : Topcase carrier tube-type silver for BMW F 650 GS Dakar (2004-2007)/F 650 GS/G 650 GS (2004-)
+[2024-06-10 15:35:58][DEBUG]Found item : C-Bow sidecarrier for BMW G 650 GS (2011-2016)/Sertao (2012-2016)/F 650 GS/Dakar (-2007)
+[2024-06-10 15:35:58][DEBUG]Found item : Center Stand for BMW F 650 GS (2001-2007)
+[2024-06-10 15:36:08][DEBUG]Image 'https://www.hepco-becker.de/media/fb/22/ef/1639743231/700638_00_01_shop4a850.jpg' download completed
+[2024-06-10 15:36:08][INFO]Item HEADLIGHT GRILL FOR BMW F 650 GS/G 650 GS (2004-2007) crawling completed
+[2024-06-10 15:36:21][DEBUG]Image 'https://www.hepco-becker.de/media/3c/f1/67/1639743118/motorschutzbuegel_502912_0009_5.jpg' download completed
+[2024-06-10 15:36:21][INFO]Item ENGINE PROTECTION BAR SILVER FOR BMW F 650 GS DAKAR (2000-2003)/F 650 GS/G 650 GS (2004-) crawling completed
+[2024-06-10 15:36:30][DEBUG]Image 'https://www.hepco-becker.de/media/03/31/9e/1639743130/verbreiterung_800638_2.jpg' download completed
+[2024-06-10 15:36:31][DEBUG]Image 'https://www.hepco-becker.de/media/24/bb/7a/1639742921/bildschirmfoto_2016-11-02_um_13-30-01_1_12.png' download completed
+[2024-06-10 15:36:31][INFO]Item MODELSPECIFIC REAR ENLARGEMENT FOR BMW F 650 GS/G 650 GS (2004-2007) crawling completed
+[2024-06-10 15:36:46][DEBUG]Image 'https://www.hepco-becker.de/media/fd/05/c5/1639743146/koffertraeger_650638_0009_5.jpg' download completed
+[2024-06-10 15:36:46][INFO]Item SIDECARRIER PERMANENT MOUNTED SILVER FOR BMW F 650 GS DAKAR (2004-2007)/F 650 GS/G 650 GS (SINGLE CYLINDER) crawling completed
+[2024-06-10 15:36:56][DEBUG]Image 'https://www.hepco-becker.de/media/a0/68/b0/1639742992/bildschirmfoto_2019-12-04_um_12-33-58.png' download completed
+[2024-06-10 15:36:57][DEBUG]Image 'https://www.hepco-becker.de/media/e5/58/df/1639742978/bildschirmfoto_2019-12-04_um_12-34-07.png' download completed
+[2024-06-10 15:36:57][INFO]Item TOPCASE CARRIER TUBE-TYPE SILVER FOR BMW F 650 GS DAKAR (2004-2007)/F 650 GS/G 650 GS (2004-) crawling completed
+[2024-06-10 15:37:06][DEBUG]Image 'https://www.hepco-becker.de/media/3f/ee/11/1639742970/c-bow_630660_1_1.jpg' download completed
+[2024-06-10 15:37:07][DEBUG]Image 'https://www.hepco-becker.de/media/1b/98/ca/1639743213/c-bow_630660_1_843af6.jpg' download completed
+[2024-06-10 15:37:07][INFO]Item C-BOW SIDECARRIER FOR BMW G 650 GS (2011-2016)/SERTAO (2012-2016)/F 650 GS/DAKAR (-2007) crawling completed
+[2024-06-10 15:37:21][DEBUG]Image 'https://www.hepco-becker.de/media/e0/bc/da/1639743225/505626_00_01_hauptstaender_849f77.jpg' download completed
+[2024-06-10 15:37:21][INFO]Item CENTER STAND FOR BMW F 650 GS (2001-2007) crawling completed
+[2024-06-10 15:37:33][TRACE]Current model options : F 650 GS Dakar (2000-2003)
+[2024-06-10 15:37:39][DEBUG]Found item : Topcase carrier tube-type silver for BMW F 650 GS Dakar (2000-2003)/F 650 GS/G 650 GS (2004-)
+[2024-06-10 15:37:39][DEBUG]Found item : Engine protection bar silver for BMW F 650 GS Dakar (2000-2003)/F 650 GS/G 650 GS (2004-)
+[2024-06-10 15:37:39][DEBUG]Found item : Center Stand for BMW F 650 GS Dakar (2004-2007)/G 650 GS Sertao
+[2024-06-10 15:37:39][DEBUG]Found item : Sidecarrier permanent mounted silver for BMW F 650 GS Dakar (2000-2003)/F 650 GS/G 650 GS
+[2024-06-10 15:37:39][DEBUG]Found item : C-Bow sidecarrier for BMW G 650 GS (2011-2016)/Sertao (2012-2016)/F 650 GS/Dakar (-2007)
+[2024-06-10 15:37:45][DEBUG]Image 'https://www.hepco-becker.de/media/d0/ff/c5/1639743043/gepaeckbruecke_650628_0101_2.jpg' download completed
+[2024-06-10 15:37:46][DEBUG]Image 'https://www.hepco-becker.de/media/6c/3c/ca/1639743135/gepaeckbruecke_650628_0101_876daf.jpg' download completed
+[2024-06-10 15:37:46][INFO]Item TOPCASE CARRIER TUBE-TYPE SILVER FOR BMW F 650 GS DAKAR (2000-2003)/F 650 GS/G 650 GS (2004-) crawling completed
+[2024-06-10 15:37:58][DEBUG]Image 'https://www.hepco-becker.de/media/3c/f1/67/1639743118/motorschutzbuegel_502912_0009_5.jpg' download completed
+[2024-06-10 15:37:58][INFO]Item ENGINE PROTECTION BAR SILVER FOR BMW F 650 GS DAKAR (2000-2003)/F 650 GS/G 650 GS (2004-) crawling completed
+[2024-06-10 15:38:12][DEBUG]Image 'https://www.hepco-becker.de/media/7d/df/9e/1639743233/505628_00_0124a8c.jpg' download completed
+[2024-06-10 15:38:12][INFO]Item CENTER STAND FOR BMW F 650 GS DAKAR (2004-2007)/G 650 GS SERTAO crawling completed
+[2024-06-10 15:38:25][DEBUG]Image 'https://www.hepco-becker.de/media/f6/ed/d7/1639742993/koffertraeger_650628_0009_11.jpg' download completed
+[2024-06-10 15:38:25][INFO]Item SIDECARRIER PERMANENT MOUNTED SILVER FOR BMW F 650 GS DAKAR (2000-2003)/F 650 GS/G 650 GS crawling completed
+[2024-06-10 15:38:35][DEBUG]Image 'https://www.hepco-becker.de/media/3f/ee/11/1639742970/c-bow_630660_1_1.jpg' download completed
+[2024-06-10 15:38:36][DEBUG]Image 'https://www.hepco-becker.de/media/1b/98/ca/1639743213/c-bow_630660_1_843af6.jpg' download completed
+[2024-06-10 15:38:36][INFO]Item C-BOW SIDECARRIER FOR BMW G 650 GS (2011-2016)/SERTAO (2012-2016)/F 650 GS/DAKAR (-2007) crawling completed
+[2024-06-10 15:38:49][TRACE]Current model options : F 650 GS Dakar (2004-2007)
+[2024-06-10 15:38:55][DEBUG]Found item : Headlight grill for BMW F 650 GS/G 650 GS (2004-2007)
+[2024-06-10 15:38:55][DEBUG]Found item : Modelspecific rear enlargement for BMW F 650 GS/G 650 GS (2004-2007)
+[2024-06-10 15:38:55][DEBUG]Found item : Engine protection bar silver for BMW F 650 GS Dakar (2000-2003)/F 650 GS/G 650 GS (2004-)
+[2024-06-10 15:38:55][DEBUG]Found item : Center Stand for BMW F 650 GS Dakar (2004-2007)/G 650 GS Sertao
+[2024-06-10 15:38:55][DEBUG]Found item : Sidecarrier permanent mounted silver for BMW F 650 GS Dakar (2004-2007)/F 650 GS/G 650 GS (single cylinder)
+[2024-06-10 15:38:55][DEBUG]Found item : Topcase carrier tube-type silver for BMW F 650 GS Dakar (2004-2007)/F 650 GS/G 650 GS (2004-)
+[2024-06-10 15:38:55][DEBUG]Found item : C-Bow sidecarrier for BMW G 650 GS (2011-2016)/Sertao (2012-2016)/F 650 GS/Dakar (-2007)
+[2024-06-10 15:39:07][DEBUG]Image 'https://www.hepco-becker.de/media/fb/22/ef/1639743231/700638_00_01_shop4a850.jpg' download completed
+[2024-06-10 15:39:07][INFO]Item HEADLIGHT GRILL FOR BMW F 650 GS/G 650 GS (2004-2007) crawling completed
+[2024-06-10 15:39:14][DEBUG]Image 'https://www.hepco-becker.de/media/03/31/9e/1639743130/verbreiterung_800638_2.jpg' download completed
+[2024-06-10 15:39:15][DEBUG]Image 'https://www.hepco-becker.de/media/24/bb/7a/1639742921/bildschirmfoto_2016-11-02_um_13-30-01_1_12.png' download completed
+[2024-06-10 15:39:15][INFO]Item MODELSPECIFIC REAR ENLARGEMENT FOR BMW F 650 GS/G 650 GS (2004-2007) crawling completed
+[2024-06-10 15:39:27][DEBUG]Image 'https://www.hepco-becker.de/media/3c/f1/67/1639743118/motorschutzbuegel_502912_0009_5.jpg' download completed
+[2024-06-10 15:39:27][INFO]Item ENGINE PROTECTION BAR SILVER FOR BMW F 650 GS DAKAR (2000-2003)/F 650 GS/G 650 GS (2004-) crawling completed
+[2024-06-10 15:39:40][DEBUG]Image 'https://www.hepco-becker.de/media/7d/df/9e/1639743233/505628_00_0124a8c.jpg' download completed
+[2024-06-10 15:39:40][INFO]Item CENTER STAND FOR BMW F 650 GS DAKAR (2004-2007)/G 650 GS SERTAO crawling completed
+[2024-06-10 15:39:54][DEBUG]Image 'https://www.hepco-becker.de/media/fd/05/c5/1639743146/koffertraeger_650638_0009_5.jpg' download completed
+[2024-06-10 15:39:54][INFO]Item SIDECARRIER PERMANENT MOUNTED SILVER FOR BMW F 650 GS DAKAR (2004-2007)/F 650 GS/G 650 GS (SINGLE CYLINDER) crawling completed
+[2024-06-10 15:40:03][DEBUG]Image 'https://www.hepco-becker.de/media/a0/68/b0/1639742992/bildschirmfoto_2019-12-04_um_12-33-58.png' download completed
+[2024-06-10 15:40:05][DEBUG]Image 'https://www.hepco-becker.de/media/e5/58/df/1639742978/bildschirmfoto_2019-12-04_um_12-34-07.png' download completed
+[2024-06-10 15:40:05][INFO]Item TOPCASE CARRIER TUBE-TYPE SILVER FOR BMW F 650 GS DAKAR (2004-2007)/F 650 GS/G 650 GS (2004-) crawling completed
+[2024-06-10 15:40:14][DEBUG]Image 'https://www.hepco-becker.de/media/3f/ee/11/1639742970/c-bow_630660_1_1.jpg' download completed
+[2024-06-10 15:40:16][DEBUG]Image 'https://www.hepco-becker.de/media/1b/98/ca/1639743213/c-bow_630660_1_843af6.jpg' download completed
+[2024-06-10 15:40:16][INFO]Item C-BOW SIDECARRIER FOR BMW G 650 GS (2011-2016)/SERTAO (2012-2016)/F 650 GS/DAKAR (-2007) crawling completed
+[2024-06-10 15:40:29][TRACE]Current model options : F 650 GS Twin (2008-2011)
+[2024-06-10 15:40:36][DEBUG]Found item : Tankguard black for BMW F650GS Twin(2008-2011)F700GS(12-17)F 800 GS (2008-2016)
+[2024-06-10 15:40:36][DEBUG]Found item : Engine protection bar black for BMW F 650 GS Twin (2008-2011)/F 700 GS (2012-2017)
+[2024-06-10 15:40:36][DEBUG]Found item : Topcase carrier tube-type black for BMW F 650 GS Twin (2008-2011)/F 700 GS (2012-2017)/F 800 GS (2008-2018)
+[2024-06-10 15:40:36][DEBUG]Found item : Tankring Lock-it incl. fastener for tankbag for BMW F 800 GS Adventure / F 800 GS (2008-2018) / F 700GS (2012-) / F 650 GS (34 PS Version) (2008-) / G 650 GS (2011-2016) 
+[2024-06-10 15:40:36][DEBUG]Found item : Sidecarrier permanent mounted black for BMW F 650 GS Twin (2008-2011)/F 700 GS (2012-2017)/F 800 GS (2008-2018)
+[2024-06-10 15:40:37][DEBUG]Found item : C-Bow sidecarrier for BMW F 650 GS Twin (2008-2011)/F700GS (2012-2017)/F 800 GS (2008-2018)
+[2024-06-10 15:40:37][DEBUG]Found item : Modelspecific rear enlargement for BMW F 650 GS Twin (2008-2011)/F 700 GS (2012-2017)/F 800 GS (2008-2018)
+[2024-06-10 15:40:37][DEBUG]Found item : Easyrack topcasecarrier black for BMW F 650 GS Twin (2008-2011)/F 700 GS (2012-2017)
+[2024-06-10 15:40:37][DEBUG]Found item : Alurack top case carrier black for BMW F 650 GS Twin (2008-2011)/F 700 GS (2012-2017)
+[2024-06-10 15:40:37][DEBUG]Found item : Engine protection plate aluminium for BMW F 650 GS Twin (2008-2011)/F 700 GS (2012-2017)
+[2024-06-10 15:40:37][DEBUG]Found item : Engine protection bar red for BMW F 650 GS Twin (2008-2011)/F 700 GS (2012-2017)
+[2024-06-10 15:40:37][DEBUG]Found item : Tankguard black for BMW F650GS Twin(2008-2011)F700GS(12-17)F 800 GS (2008-2016)
+[2024-06-10 15:40:37][DEBUG]Found item : Kickstand enlargement for BMW F 650 GS (2008-2011)
+[2024-06-10 15:40:37][DEBUG]Found item : Handle guard set black (left+right side) for BMW F 650 GS Twin (2008-2011)/F 800 GS (2008-2018)
+[2024-06-10 15:40:37][DEBUG]Found item : Headlight grill for BMW F 650 GS Twin (2008-2011)/F 700 GS (2012-2017)
+[2024-06-10 15:40:37][DEBUG]Found item : Center Stand for BMW F 650 GS Twin (2008-2011)/F 700 GS (2012-2017)
+[2024-06-10 15:40:37][DEBUG]Found item : Sidecarrier Cutout stainless steel incl. Xplorer sideboxes silver for BMW F650/700/800GS
+[2024-06-10 15:40:37][DEBUG]Found item : Rear protection bar black for BMW F 650 GS Twin (2008-2011)/F 700 GS (2012-2017)/F 800 GS (2008-2018)
+[2024-06-10 15:40:38][DEBUG]Found item : Front protection bar - black for BMW F 650 GS Twin (2008-2011)/F 700 GS (2012-2017)/F 800 GS (2008-2018)
+[2024-06-10 15:40:38][DEBUG]Found item : Sidecarrier Cutout stainless steel incl. Xplorer sideboxes black for BMW F 700 GS
+[2024-06-10 15:40:38][DEBUG]Found item : Tankring BASIC incl. fastener for tankbag for BMW F 800 GS Adventure / F 800 GS (2008-2018) / F 700GS (2012-) / F 650 GS (34 PS Version) (2008-) / G 650 GS (2011-2016)
+[2024-06-10 15:40:48][DEBUG]Image 'https://www.hepco-becker.de/media/10/69/66/1639742995/tankschutzbuegel_502938_0001_5.jpg' download completed
+[2024-06-10 15:40:48][INFO]Item TANKGUARD BLACK FOR BMW F650GS TWIN(2008-2011)F700GS(12-17)F 800 GS (2008-2016) crawling completed
+[2024-06-10 15:40:55][DEBUG]Image 'https://www.hepco-becker.de/media/8a/96/43/1639743015/502935_00_01_shop.jpg' download completed
+[2024-06-10 15:40:57][DEBUG]Image 'https://www.hepco-becker.de/media/41/49/48/1639742982/motorschutzbuegel_502935_0001_18.jpg' download completed
+[2024-06-10 15:40:57][INFO]Item ENGINE PROTECTION BAR BLACK FOR BMW F 650 GS TWIN (2008-2011)/F 700 GS (2012-2017) crawling completed
+[2024-06-10 15:41:12][DEBUG]Image 'https://www.hepco-becker.de/media/cd/54/1b/1639742984/gepaeckbruecke_650664_0101_5.jpg' download completed
+[2024-06-10 15:41:12][INFO]Item TOPCASE CARRIER TUBE-TYPE BLACK FOR BMW F 650 GS TWIN (2008-2011)/F 700 GS (2012-2017)/F 800 GS (2008-2018) crawling completed
+[2024-06-10 15:41:21][DEBUG]Image 'https://www.hepco-becker.de/media/ba/57/1e/1639742961/506667_tankring_11.jpg' download completed
+[2024-06-10 15:41:24][DEBUG]Image 'https://www.hepco-becker.de/media/f4/5b/45/1678091062/Screenshot%202023-03-06%20092254.png' download completed
+[2024-06-10 15:41:24][INFO]Item TANKRING LOCK-IT INCL. FASTENER FOR TANKBAG FOR BMW F 800 GS ADVENTURE / F 800 GS (2008-2018) / F 700GS (2012-) / F 650 GS (34 PS VERSION) (2008-) / G 650 GS (2011-2016) crawling completed
+[2024-06-10 15:41:38][DEBUG]Image 'https://www.hepco-becker.de/media/b8/34/51/1639742980/koffertraeger_650664_0001_5.jpg' download completed
+[2024-06-10 15:41:38][INFO]Item SIDECARRIER PERMANENT MOUNTED BLACK FOR BMW F 650 GS TWIN (2008-2011)/F 700 GS (2012-2017)/F 800 GS (2008-2018) crawling completed
+[2024-06-10 15:41:53][DEBUG]Image 'https://www.hepco-becker.de/media/88/32/73/1639743241/c_bow_630652_4.jpg' download completed
+[2024-06-10 15:41:53][INFO]Item C-BOW SIDECARRIER FOR BMW F 650 GS TWIN (2008-2011)/F700GS (2012-2017)/F 800 GS (2008-2018) crawling completed
+[2024-06-10 15:42:03][DEBUG]Image 'https://www.hepco-becker.de/media/f4/80/9e/1639743275/verbreiterung_800652_5.jpg' download completed
+[2024-06-10 15:42:04][DEBUG]Image 'https://www.hepco-becker.de/media/c5/0b/b9/1639743044/bildschirmfoto_2016-11-02_um_13-30-01_1_11.png' download completed
+[2024-06-10 15:42:04][INFO]Item MODELSPECIFIC REAR ENLARGEMENT FOR BMW F 650 GS TWIN (2008-2011)/F 700 GS (2012-2017)/F 800 GS (2008-2018) crawling completed
+[2024-06-10 15:42:14][DEBUG]Image 'https://www.hepco-becker.de/media/2f/f0/94/1639743186/661652_01_01_shop.jpg' download completed
+[2024-06-10 15:42:15][DEBUG]Image 'https://www.hepco-becker.de/media/07/03/33/1639743007/easyrack_143.jpg' download completed
+[2024-06-10 15:42:16][DEBUG]Image 'https://www.hepco-becker.de/media/29/38/b8/1639742975/easyrack_shop_89b0173.jpg' download completed
+[2024-06-10 15:42:16][INFO]Item EASYRACK TOPCASECARRIER BLACK FOR BMW F 650 GS TWIN (2008-2011)/F 700 GS (2012-2017) crawling completed
+[2024-06-10 15:42:27][DEBUG]Image 'https://www.hepco-becker.de/media/a8/5c/33/1639743038/650652_01_01_shop.jpg' download completed
+[2024-06-10 15:42:29][DEBUG]Image 'https://www.hepco-becker.de/media/c7/53/2d/1639743051/alurack_650652_0101_18.jpg' download completed
+[2024-06-10 15:42:29][INFO]Item ALURACK TOP CASE CARRIER BLACK FOR BMW F 650 GS TWIN (2008-2011)/F 700 GS (2012-2017) crawling completed
+[2024-06-10 15:42:42][DEBUG]Image 'https://www.hepco-becker.de/media/59/ed/a9/1639742985/motorschutzplatte_810652_5.jpg' download completed
+[2024-06-10 15:42:42][INFO]Item ENGINE PROTECTION PLATE ALUMINIUM FOR BMW F 650 GS TWIN (2008-2011)/F 700 GS (2012-2017) crawling completed
+[2024-06-10 15:42:53][DEBUG]Image 'https://www.hepco-becker.de/media/86/4a/7b/1639743211/7_119e92.jpg' download completed
+[2024-06-10 15:42:55][DEBUG]Image 'https://www.hepco-becker.de/media/4b/97/92/1639743148/3_1_2c98e4.jpg' download completed
+[2024-06-10 15:42:57][DEBUG]Image 'https://www.hepco-becker.de/media/c0/91/c2/1639742991/2_2_2275b8c.jpg' download completed
+[2024-06-10 15:43:00][DEBUG]Image 'https://www.hepco-becker.de/media/2d/3a/00/1639742940/1_3_119d5c6.jpg' download completed
+[2024-06-10 15:43:02][DEBUG]Image 'https://www.hepco-becker.de/media/12/d3/e8/1639742935/4_6871e0.jpg' download completed
+[2024-06-10 15:43:04][DEBUG]Image 'https://www.hepco-becker.de/media/b7/1c/41/1639743113/5_86fb25.jpg' download completed
+[2024-06-10 15:43:06][DEBUG]Image 'https://www.hepco-becker.de/media/f6/17/38/1639743256/6_491513.jpg' download completed
+[2024-06-10 15:43:08][DEBUG]Image 'https://www.hepco-becker.de/media/7a/89/7a/1639743278/8_110d920.jpg' download completed
+[2024-06-10 15:43:10][DEBUG]Image 'https://www.hepco-becker.de/media/af/76/9b/1639742933/9_89112e.jpg' download completed
+[2024-06-10 15:43:13][DEBUG]Image 'https://www.hepco-becker.de/media/e5/07/ab/1639742924/10_974ad5.jpg' download completed
+[2024-06-10 15:43:13][INFO]Item ENGINE PROTECTION BAR RED FOR BMW F 650 GS TWIN (2008-2011)/F 700 GS (2012-2017) crawling completed
+[2024-06-10 15:43:18][ERROR]Failed to translate product description : timed out

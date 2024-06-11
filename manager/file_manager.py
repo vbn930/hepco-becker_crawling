@@ -20,6 +20,6 @@ class FileManager():
 
     def move_file(self, file_name, src, dst):
         if self.is_dir_exist(dst) == False:
-            self.creat_dir(dst)
+            self.create_dir(dst)
         shutil.move(os.path.join(src, file_name), os.path.join(dst, file_name))
         return True
