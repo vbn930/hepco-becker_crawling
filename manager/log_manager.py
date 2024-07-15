@@ -22,6 +22,7 @@ class Logger:
         now = datetime.now()
         msg = f"[{now.strftime('%Y-%m-%d %H:%M:%S')}][{LogLevel.TRACE.name}]{log_msg}"
         self.log_stack.append(msg)
+        self.save_log(is_clear_stack=False)
         if self.log_type.value >= 2:
             print(msg)
     
@@ -29,6 +30,7 @@ class Logger:
         now = datetime.now()
         msg = f"[{now.strftime('%Y-%m-%d %H:%M:%S')}][{LogLevel.DEBUG.name}]{log_msg}"
         self.log_stack.append(msg)
+        self.save_log(is_clear_stack=False)
         if self.log_type.value >= 2:
             print(msg)
             
@@ -37,12 +39,14 @@ class Logger:
         msg = f"[{now.strftime('%Y-%m-%d %H:%M:%S')}][{LogLevel.INFO.name}]{log_msg}"
         print(msg)
         self.log_stack.append(msg)
+        self.save_log(is_clear_stack=False)
         
     def log_warn(self, log_msg):
         now = datetime.now()
         msg = f"[{now.strftime('%Y-%m-%d %H:%M:%S')}][{LogLevel.WARN.name}]{log_msg}"
         print(msg)
         self.log_stack.append(msg)
+        self.save_log(is_clear_stack=False)
         
     def log_error(self, log_msg):
         now = datetime.now()
@@ -58,12 +62,13 @@ class Logger:
         self.log_stack.append(msg)
         self.save_log()
         
-    def save_log(self):
+    def save_log(self, is_clear_stack=True):
         file_path = "log.txt"
         with open(file_path, "w", encoding='UTF-8') as file:
             for log in self.log_stack:
                 file.write(log + "\n")
-                
-        self.log_stack.clear()
-        del self.log_stack
-        self.log_stack = []
+
+        if is_clear_stack:     
+            self.log_stack.clear()
+            del self.log_stack
+            self.log_stack = []

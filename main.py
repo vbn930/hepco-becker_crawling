@@ -3,11 +3,11 @@ from manager import log_manager
 from manager import file_manager as FM
 import datetime
 
-# pyinstaller -n "Hepco&Becker Crawler ver1.0" --clean --onefile main.py
+# pyinstaller -n "Hepco&Becker Crawler ver1.3" --clean --onefile main.py
 
-# pyinstaller -n "Hepco&Becker Luggage-Systems Crawler ver1.0" --clean --onefile main.py
+# pyinstaller -n "Hepco&Becker Luggage-Systems Crawler ver1.3" --clean --onefile main.py
 
-# pyinstaller -n "Hepco&Becker Protection-Comfort Crawler ver1.0" --clean --onefile main.py
+# pyinstaller -n "Hepco&Becker Protection-Comfort Crawler ver1.3" --clean --onefile main.py
 
 global log_level
 log_level = log_manager.LogType.BUILD

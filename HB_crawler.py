@@ -212,7 +212,7 @@ class Hepco_Becker_Crawler:
         self.data["가격"].append(item.price)
         if len(item.images) != 0:
             self.data["대표 이미지"].append(item.images[0])
-            self.data["상세 이미지"].append(", ".join(item.images))
+            self.data["상세 이미지"].append("|".join(item.images))
         else:
             self.data["대표 이미지"].append("")
             self.data["상세 이미지"].append("")
