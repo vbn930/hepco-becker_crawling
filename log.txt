@@ -1,5 +1,23 @@
-[2024-07-15 18:59:54][DEBUG]Driver created without proxy
-[2024-07-15 18:59:54][DEBUG]Setting values : ['', '']
-[2024-07-15 18:59:54][INFO]======Hepco&Becker Category Crawler======
-[2024-07-15 19:00:07][DEBUG]Modal popup check completed!
-[2024-07-15 19:00:23][INFO]Current category : Motorcycle cases and bags / Topcase
+[2024-07-16 16:05:52][DEBUG]Driver created without proxy
+[2024-07-16 16:05:52][DEBUG]Setting values : ['', '']
+[2024-07-16 16:05:52][INFO]======Hepco&Becker Category Crawler======
+[2024-07-16 16:06:06][DEBUG]Modal popup check completed!
+[2024-07-16 16:06:21][INFO]Current category : Luggage rack / C-Bow carrier
+[2024-07-16 16:06:27][INFO]Found item : Thread locking medium strength MARSTON 10g
+[2024-07-16 16:06:27][INFO]Found item : C-Bow spare part - black
+[2024-07-16 16:06:28][INFO]Found item : C-Bow plastic adapter incl. key and lock
+[2024-07-16 16:06:28][INFO]Found item : C-Bow shifting vertical 30mm - black (set)
+[2024-07-16 16:06:28][INFO]Found item : Universal C-Bow shifting 5cm horizontal black
+[2024-07-16 16:06:28][INFO]Found item : C-Bow spare part - chrome
+[2024-07-16 16:06:28][INFO]Found item : Universal C-Bow enlargement 40mm black - set
+[2024-07-16 16:06:28][INFO]Found item : Universal C-Bow enlargement 20mm black - set
+[2024-07-16 16:06:28][INFO]Found item : Universal C-Bow enlargement 10mm black - set
+[2024-07-16 16:06:28][INFO]Found item : C-Bow shifting vertical 30mm - chrome (set)
+[2024-07-16 16:06:28][INFO]Found item : Paint repair set black matt
+[2024-07-16 16:06:28][INFO]Found item : Universal C-Bow shifting 5cm horizontal chrome
+[2024-07-16 16:06:28][INFO]Found item : 5 liters metal canister incl. Holder / adapter for Hepco Becker C-Bow side carrier
+[2024-07-16 16:06:28][INFO]Found item : C-Bow wall holder
+[2024-07-16 16:06:28][INFO]Found item : Paint repair set black glossy
+[2024-07-16 16:06:41][DEBUG]Image 'https://www.hepco-becker.de/media/21/e9/25/1639743116/a_4000353002_01_allb4c37.jpg' download completed
+[2024-07-16 16:06:41][INFO]Item Thread Locking Medium Strength Marston 10g crawling completed
+[2024-07-16 16:06:51][DEBUG]Image 'https://www.hepco-becker.de/media/3a/6c/db/1639743189/c-bow_schwarzfd106.jpg' download completed

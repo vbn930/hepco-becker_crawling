@@ -5,9 +5,9 @@ import datetime
 
 # pyinstaller -n "Hepco&Becker Crawler ver1.3" --clean --onefile main.py
 
-# pyinstaller -n "Hepco&Becker Luggage-Systems Crawler ver1.3" --clean --onefile main.py
+# pyinstaller -n "Hepco&Becker Luggage-Systems Crawler ver1.4" --clean --onefile main.py
 
-# pyinstaller -n "Hepco&Becker Protection-Comfort Crawler ver1.3" --clean --onefile main.py
+# pyinstaller -n "Hepco&Becker Protection-Comfort Crawler ver1.4" --clean --onefile main.py
 
 global log_level
 log_level = log_manager.LogType.BUILD

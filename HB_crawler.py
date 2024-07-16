@@ -156,15 +156,16 @@ class Hepco_Becker_Crawler:
 
     def get_item_list_in_category(self):
         item_urls = []
-        product_card_elements = self.driver.find_elements(By.CLASS_NAME, "card-body")
+        if self.driver_obj.is_element_exist(By.CLASS_NAME, "card-body"):
+            product_card_elements = self.driver.find_elements(By.CLASS_NAME, "card-body")
 
-        for product_card_element in product_card_elements:
-            if self.driver_obj.is_element_exist(By.CLASS_NAME, "product-info", product_card_element):
-                item_name_element = product_card_element.find_element(By.CLASS_NAME, "product-info").find_element(By.CLASS_NAME, "product-name")
-                item_url = item_name_element.get_attribute("href")
-                item_name = item_name_element.get_attribute("title")
-                self.logger.log_info(f"Found item : {item_name}")
-                item_urls.append(item_url)
+            for product_card_element in product_card_elements:
+                if self.driver_obj.is_element_exist(By.CLASS_NAME, "product-info", product_card_element):
+                    item_name_element = product_card_element.find_element(By.CLASS_NAME, "product-info").find_element(By.CLASS_NAME, "product-name")
+                    item_url = item_name_element.get_attribute("href")
+                    item_name = item_name_element.get_attribute("title")
+                    self.logger.log_info(f"Found item : {item_name}")
+                    item_urls.append(item_url)
         
         return item_urls
 
@@ -280,8 +281,21 @@ class Hepco_Becker_Crawler:
                 is_found_start_point = True
             
             if is_found_start_point:
+                page = 1
+                item_urls = []
                 self.driver.get(url)
-                item_urls = self.get_item_list_in_category()
+                if self.driver_obj.is_element_exist(By.CLASS_NAME, "pagination-nav"):
+                    while(True):
+                        page_url = url + f"?order=topseller&p={page}"
+                        self.driver.get(page_url)
+                        self.logger.log_debug(f"Current page: {page_url}")
+                        item_list = self.get_item_list_in_category()
+                        if len(item_list) == 0:
+                            break
+                        item_urls += item_list
+                        page += 1
+                else:
+                    item_urls = self.get_item_list_in_category()
 
                 for item_url in item_urls:
                     item = self.get_item_information(item_url=item_url, categoty=category_name, sub_category=sub_category_name, output_name=output_name)
