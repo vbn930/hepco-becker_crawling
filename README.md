@@ -1,29 +1,67 @@
-# Hepco & Becker Crawling
+# Resilient E-Commerce Data Pipeline (Hepco & Becker Crawler)
 
-Welcome to the **Hepco & Becker Crawling** project! This project was developed while working with Bikeonline, demonstrating my ability to create effective and efficient solutions for real-world business needs. This repository highlights my skills in building robust web crawling tools that automate data collection processes, making it easier for businesses to gather and analyze essential information.
+`Python` `Selenium` `Data-Pipeline` `Networking` `ETL` `Resilience`
 
-## Why Hepco & Becker Crawling?
-The **Hepco & Becker Crawling** project showcases my expertise in web scraping and data automation, specifically tailored to handle the dynamic nature of e-commerce websites. The main objective was to extract relevant product information to support business analysis and inventory management, illustrating my capability to develop tailored solutions for specific business use cases.
+## 1\. Project Overview
 
-## Key Features
-- **Automated Data Extraction**: Automatically crawl and collect data from Hepco & Becker product pages, showcasing my skills in building scalable and repeatable data collection systems.
-- **Configurable Crawling Targets**: Flexible configuration settings that allow easy modifications to the crawling process, demonstrating my focus on adaptability and reusable code.
-- **Organized Data Output**: Extracted data is formatted in a structured way, suitable for analysis or integration into other business processes, emphasizing my ability to efficiently organize and prepare data.
+This project is a complete, end-to-end **ETL (Extract, Transform, Load) data pipeline** designed for a complex, large-scale web crawling task. The target, `hepco-becker.de`, is a large e-commerce site with thousands of products across deeply nested categories.
 
-## Technologies and Skills Demonstrated
-- **Python**: Used as the core language, highlighting my strong proficiency in Python programming.
-- **Requests Library**: Manages HTTP requests, demonstrating my experience with web interactions and RESTful services.
-- **BeautifulSoup**: Utilized for HTML parsing, showing my skills in navigating web pages and extracting needed data points.
-- **Pandas** (optional): Used for organizing extracted data, showcasing my expertise in data manipulation and tabular data processing.
+A simple scraper would fail due to network interruptions, API failures, or sheer job length (potentially a multi-day crawl). This system is architected from the ground up for **resilience, network error handling, and stateful recovery**. It is designed to run as a standalone executable (`pyinstaller`) batch job, capable of being stopped and restarted without data loss.
 
-## Project Objectives
-The **Hepco & Becker Crawling** project was built to solve a real-world problem—gathering product data for analysis and monitoring. It demonstrates:
-- My ability to build specialized web scraping tools that meet specific business needs.
-- My problem-solving skills in managing dynamic web content and unstructured data.
-- My emphasis on writing clean, maintainable, and adaptable code that can be reused for different applications.
+## 2\. System Architecture & Core Components
 
-## How This Project Adds Value
-Efficient data collection is crucial for e-commerce companies, and this project delivers a customized solution for gathering product data. This project demonstrates my skills in:
-- Developing tailored tools to solve business-specific challenges.
-- Understanding client requirements and translating them into functional solutions.
-- Creating software that is dependable, flexible, and easy to adapt for new purposes.
+The application operates as a stateful pipeline, where a central coordinator manages a series of specialized modules for network communication, data transformation, and storage.
+
+### A. Coordinator (`main.py`)
+
+  * **Job Orchestration:** The main entry point that initializes the `Logger` and `FileManager`.
+  * **Task Selection:** Selects which specific crawl job to run (e.g., `start_luggage_systems_crawling`, `start_protection_comfort_crawling`).
+  * **Environment Setup:** Creates the necessary output directories for the batch job, named with a timestamp (e.g., `./output/20251105_HB_PC/images`).
+
+### B. Core Crawler Engine (`HB_crawler.py`)
+
+  * **Stateful Logic:** This is the "brains" of the operation. It's not a stateless script; it reads a `_setting.csv` file to determine its **starting checkpoint** (`start_category`, `start_sub_category`). This allows the crawl to be resumed after a failure, saving hours or days of work.
+  * **Crawl Strategy:** Implements two distinct, deep-crawl strategies:
+    1.  By **Make/Model**: Iterates through every brand and model of vehicle.
+    2.  By **Category/Sub-Category**: Iterates through product categories and handles pagination (`?p={page}`).
+  * **Data Aggregation:** Holds the extracted data in a `pandas` DataFrame in memory, which is periodically flushed to disk.
+
+### C. Advanced Network Manager (`web_driver_manager.py`)
+
+This module is the core of the system's network-level capabilities and resilience.
+
+  * **Dynamic Proxy Authentication:** The `create_driver` function **dynamically builds a `proxy_auth_plugin.zip` file on the fly**. It writes a custom `manifest.json` and `background.js` to handle complex proxy authentication (`username:password`) at the browser's `webRequest` level. This is a far more robust solution than standard proxy methods.
+  * **Resilient Page Loader:** The `Driver.get_page` method wraps the Selenium `driver.get()` call in a **retry loop (10 attempts)** with a `try...except` block, ensuring temporary network failures do not kill the entire crawl.
+  * **Resilient Image Downloader:** The `download_image` method (using `requests` for efficiency) also features a **5-attempt retry loop**. Crucially, it performs **data integrity validation** by checking the downloaded file size, automatically retrying if the file is empty or corrupted.
+
+### D. External API Service (`translate_manager.py`)
+
+  * **Data Transformation:** This module enriches the data by feeding the scraped English product descriptions (`item_description`) into the **Google Translate API** to produce a Korean translation (`trans_description`).
+  * **Network Resilience:** This external HTTP API call has its *own* **5-attempt retry loop** with exponential backoff (`time.sleep(2)`). It's designed to handle API rate limiting or temporary service outages.
+
+### E. Persistence & Logging (`file_manager.py`, `log_manager.py`)
+
+  * **Safe Data Storage:** The crawler **periodically saves its complete DataFrame to an Excel file** (`save_database_to_excel`) *during* the crawl (e.g., after each model is finished). This minimizes data loss in the event of a critical failure.
+  * **Advanced Logging:** The `log_manager` provides multi-level logging (`TRACE`, `DEBUG`, `INFO`) and separate build modes (`BUILD` vs. `DEBUG`) to control verbosity, saving all output to `log.txt` for troubleshooting.
+
+## 3\. Highlights
+
+This project was specifically designed to solve common networking and data integrity problems in large-scale scraping.
+
+  * **Dynamic L7 Proxy Authentication:** Demonstrates a deep understanding of browser-level networking by programmatically generating a Chrome extension to handle `onAuthRequired` events for authenticated proxies.
+  * **Multi-Layered Retry Logic:** The system does not assume a stable connection. Resilience is baked into three separate layers:
+    1.  **Page Load:** Retries 10 times (`web_driver_manager`).
+    2.  **Image Download:** Retries 5 times (`web_driver_manager`).
+    3.  **API Translation:** Retries 5 times (`translate_manager`).
+  * **Stateful Checkpointing:** The use of `_setting.csv` files to "bookmark" the crawler's progress is a key feature, turning a fragile script into a robust batch-processing job that can recover from failure.
+  * **Data Integrity Validation:** By checking image file sizes post-download, the system ensures the data pipeline is not "garbage in, garbage out," preventing corrupted data from being saved.
+
+## 4\. Tech Stack
+
+  * **Core:** Python
+  * **Web Automation:** Selenium
+  * **Driver Management:** webdriver-manager
+  * **Data Handling:** Pandas
+  * **External API:** googletrans
+  * **HTTP Requests:** requests
+  * **System Utilities:** psutil (for `resource_monitor_manager`)
